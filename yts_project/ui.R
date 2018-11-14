@@ -8,7 +8,7 @@ shinyUI(dashboardPage(
       # Create different tabs
       menuItem("Introduction", tabName = "intro", icon = icon("info")),
       menuItem("Heat Map", tabName = "map", icon = icon("map")),
-      menuItem("Time Histogram", tabName = 'hist', icon = icon("time", lib = 'glyphicon')),
+      menuItem("State Trends", tabName = 'trends', icon = icon("chart-line")),
       menuItem("Monthly Change", tabName = "change", icon = icon("bar-chart-o")),
       menuItem("Data Table", tabName = "data", icon = icon("database"))
     ),
@@ -18,6 +18,7 @@ shinyUI(dashboardPage(
   ),
   dashboardBody(
     tabItems(
+      # Intro tab
       tabItem(tabName = "intro",
               fluidRow(column(8, align="center", offset = 2,
                               box(htmlOutput('intro_header'), htmlOutput('intro_author'), width = 20, 
@@ -28,15 +29,18 @@ shinyUI(dashboardPage(
                                   htmlOutput('intro_body2'), htmlOutput('intro_body3'), htmlOutput('intro_body4'), width = 20, background = 'light-blue'),
                               tags$style(type="text/css", "#string { text-align:justified }")))
       ),
+      # Heat map tab
       tabItem(tabName = "map",
               fluidRow(box(
                 background = 'light-blue',
                 width = 12,
                 align = 'center',
+                # Text description
                 h1('United States Tobacco Use Heat Map'),
                 p('Use this map to visualize areas of the US with high youth tobacco use.')
               )),
               fluidRow(box(
+                # Widgets
                 column(
                   selectInput('map_year', 'Choose a year:', choices=unique(ms_data$YEAR)[order(unique(ms_data$YEAR))]),
                   radioButtons('map_measure', 'Choose a category:', choices=c('Cigarette Use', 'Smokeless Tobacco Use')),
@@ -49,10 +53,37 @@ shinyUI(dashboardPage(
                 ),
                 width = 12
               )),
+              # Plotly map output
               fluidRow(box(plotlyOutput("map"), width = 12))
               ),
-      tabItem(tabName = 'hist',
-              fluidRow(box(plotOutput("hist"), width = 12))),
+      # State trend tab
+      tabItem(tabName = 'trends',
+              fluidRow(box(
+                background = 'light-blue',
+                width = 12,
+                align = 'center',
+                # Text description
+                h1('State-Level Youth Tobacco Use Trends'),
+                p('Use this graph to visualize state-level youth tobacco use trends.')
+              )),
+              # Widgets
+              fluidRow(box(
+                selectInput('trend_state', 'Choose a state:', choices=unique(ms_data$LocationAbbr)[order(unique(ms_data$LocationAbbr))]),
+                radioButtons('trend_measure', 'Choose a category:', choices=c('Cigarette Use', 'Smokeless Tobacco Use')),
+                width = 12
+              )),
+              # Overall graph
+              fluidRow(box(plotlyOutput('overall_trend'), width = 12)),
+              fluidRow(
+                column(box(
+                  width = 12,
+                  plotlyOutput('male_trend')
+                ), width = 6),
+                column(box(
+                  width = 12,
+                  plotlyOutput('female_trend')
+                ), width = 6)
+              )),
       tabItem(tabName = 'change',
               fluidRow(box(plotOutput("change"), width = 12)),
               fluidRow(htmlOutput('select_state'))),
