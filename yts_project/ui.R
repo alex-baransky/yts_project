@@ -94,10 +94,6 @@ shinyUI(dashboardPage(
                   width = 12,
                   plotlyOutput('female_map')
                 ), width = 6))
-              # # Male map output
-              # fluidRow(box(plotlyOutput("male_map"), width = 12)),
-              # # Female map output
-              # fluidRow(box(plotlyOutput("female_map"), width = 12))
               ),
       # State trend tab
       tabItem(tabName = 'trends',
@@ -138,13 +134,7 @@ shinyUI(dashboardPage(
                   width = 12,
                   plotlyOutput('female_trend')
                 ), width = 6))
-              ),
-      tabItem(tabName = 'change',
-              fluidRow(box(plotOutput("change"), width = 12)),
-              fluidRow(htmlOutput('select_state'))),
-      tabItem(tabName = "data",
-              fluidRow(box(DT::dataTableOutput("county_table"), width = 12, title = 'Observations by County')),
-              fluidRow(box(DT::dataTableOutput("time_table"), width = 12, title = 'Observations by Time')))
+              )
     )
   )
 ))
