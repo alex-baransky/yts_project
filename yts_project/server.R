@@ -40,24 +40,41 @@ shinyServer(function(input, output) {
     }
   })
   
-  # Reactively create map title text
-  map_title = reactive({
-    paste(input$map_measure, 'of', input$hs_or_ms, 'Students in', input$map_year)
+  # Reactive data that returns a dataframe filtered by user input, for cessation graphs
+  cessation_data = reactive({
+    if (input$hs_or_ms == 'High School'){
+      return(hs_data %>% 
+               filter(TopicDesc=='Cessation', LocationDesc==input$cessation_state, !is.na(Data_Value))) %>% 
+               mutate(hover=paste(Data_Value, '<br>', "Year", YEAR, '<br>',
+                           "Standard Error", Data_Value_Std_Err, "<br>",
+                           "Low Confidence Limit", Low_Confidence_Limit, "<br>",
+                           "High Confidence Limit", High_Confidence_Limit, '<br>',
+                           "Sample Size", Sample_Size))
+    }
+    else {
+      return(ms_data %>% 
+               filter(TopicDesc=='Cessation', LocationDesc==input$cessation_state, !is.na(Data_Value))) %>% 
+               mutate(hover=paste(Data_Value, '<br>', "Year", YEAR, '<br>',
+                           "Standard Error", Data_Value_Std_Err, "<br>",
+                           "Low Confidence Limit", Low_Confidence_Limit, "<br>",
+                           "High Confidence Limit", High_Confidence_Limit, '<br>',
+                           "Sample Size", Sample_Size))
+    }
   })
   
-  # Reactively create trend graph title text
-  trend_title = reactive({
-    paste(input$trend_measure, 'of', input$trend_state, input$hs_or_ms, 'Students Over Time')
-  })
-  
-  # Trend title text
+  # Use title text
   output$trend_text = renderText({
-    trend_title()
+    paste(input$trend_measure, 'of', input$trend_state, input$hs_or_ms, 'Students Over Time')
   })
   
   # Map title text
   output$map_text = renderText({
-    map_title()
+    paste(input$map_measure, 'of', input$hs_or_ms, 'Students in', input$map_year)
+  })
+  
+  # Cessation title text
+  output$cessation_text = renderText({
+    paste(input$cessation_state, input$hs_or_ms, 'Student Cessation Mindset Over Time')
   })
   
   # Render overall heat map output
@@ -157,6 +174,42 @@ shinyServer(function(input, output) {
                xlab('Year') + ylab('Percent') +
                ggtitle('Female') +
                labs(col = 'Habit') + ylim(min(trend_data()$Low_Confidence_Limit, na.rm = TRUE), max(trend_data()$High_Confidence_Limit, na.rm = TRUE)) +
+               xlim(1999, 2017), tooltip='text')
+  })
+  
+  # Render overall state cessation graph
+  output$overall_cessation = renderPlotly({
+    ggplotly(ggplot(cessation_data() %>% filter(Gender=='Overall'), aes(x=YEAR)) +
+               geom_line(aes(y=Data_Value, col=MeasureDesc)) +
+               geom_point(aes(y=Data_Value, col=MeasureDesc, text=hover)) +
+               geom_ribbon(aes(ymin=Low_Confidence_Limit, ymax=High_Confidence_Limit, col=MeasureDesc), alpha=0.2) +
+               xlab('Year') + ylab('Percent') +
+               ggtitle('Overall') +
+               labs(col = 'Type') + ylim(min(cessation_data()$Low_Confidence_Limit, na.rm = TRUE), max(cessation_data()$High_Confidence_Limit, na.rm = TRUE)) +
+               xlim(1999, 2017), tooltip='text')
+  })
+  
+  # Render male state cessation graph
+  output$male_cessation = renderPlotly({
+    ggplotly(ggplot(cessation_data() %>% filter(Gender=='Male'), aes(x=YEAR)) +
+               geom_line(aes(y=Data_Value, col=MeasureDesc)) +
+               geom_point(aes(y=Data_Value, col=MeasureDesc, text=hover)) +
+               geom_ribbon(aes(ymin=Low_Confidence_Limit, ymax=High_Confidence_Limit, col=MeasureDesc), alpha=0.2) +
+               xlab('Year') + ylab('Percent') +
+               ggtitle('Male') +
+               labs(col = 'Type') + ylim(min(cessation_data()$Low_Confidence_Limit, na.rm = TRUE), max(cessation_data()$High_Confidence_Limit, na.rm = TRUE)) +
+               xlim(1999, 2017), tooltip='text')
+  })
+  
+  # Render female state cessation graph
+  output$female_cessation = renderPlotly({
+    ggplotly(ggplot(cessation_data() %>% filter(Gender=='Female'), aes(x=YEAR)) +
+               geom_line(aes(y=Data_Value, col=MeasureDesc)) +
+               geom_point(aes(y=Data_Value, col=MeasureDesc, text=hover)) +
+               geom_ribbon(aes(ymin=Low_Confidence_Limit, ymax=High_Confidence_Limit, col=MeasureDesc), alpha=0.2) +
+               xlab('Year') + ylab('Percent') +
+               ggtitle('Female') +
+               labs(col = 'Type') + ylim(min(cessation_data()$Low_Confidence_Limit, na.rm = TRUE), max(cessation_data()$High_Confidence_Limit, na.rm = TRUE)) +
                xlim(1999, 2017), tooltip='text')
   })
   

@@ -7,10 +7,9 @@ shinyUI(dashboardPage(
     sidebarMenu(
       # Create different tabs
       menuItem("Introduction", tabName = "intro", icon = icon("info")),
-      menuItem("Heat Map", tabName = "map", icon = icon("map")),
-      menuItem("State Trends", tabName = 'trends', icon = icon("chart-line")),
-      menuItem("Monthly Change", tabName = "change", icon = icon("bar-chart-o")),
-      menuItem("Data Table", tabName = "data", icon = icon("database"))
+      menuItem("Use Map", tabName = "map", icon = icon("map")),
+      menuItem("Use Trends", tabName = 'trends', icon = icon("chart-line")),
+      menuItem("Cessation Trends", tabName = "cessation", icon = icon("chart-line"))
     ),
     
     # Create radio button to choose high school or middle school data set
@@ -95,7 +94,7 @@ shinyUI(dashboardPage(
                   plotlyOutput('female_map')
                 ), width = 6))
               ),
-      # State trend tab
+      # Use trend tab
       tabItem(tabName = 'trends',
               fluidRow(box(
                 background = 'light-blue',
@@ -134,7 +133,46 @@ shinyUI(dashboardPage(
                   width = 12,
                   plotlyOutput('female_trend')
                 ), width = 6))
-              )
+              ),
+      # Cessation trend tab
+      tabItem(tabName = 'cessation',
+              fluidRow(box(
+                background = 'light-blue',
+                width = 12,
+                align = 'center',
+                # Text description
+                h1('State-Level Youth Tobacco Use Trends'),
+                p('Use this graph to visualize state-level youth tobacco use trends.')
+              )),
+              # Widgets
+              fluidRow(box(
+                selectInput('cessation_state', 'Choose a state:', choices=unique(ms_data$LocationDesc)[order(unique(ms_data$LocationDesc))]),
+                width = 12
+              )),
+              # Graph title
+              fluidRow(box(
+                background = 'light-blue',
+                width = 12,
+                align = 'center',
+                # Text description
+                h3(textOutput('cessation_text'))
+              )),
+              # Overall graph
+              fluidRow(box(plotlyOutput('overall_cessation'), width = 12)),
+              fluidRow(
+                # Male graph
+                column(box(
+                  background = 'light-blue',
+                  width = 12,
+                  plotlyOutput('male_cessation')
+                ), width = 6),
+                # Female graph
+                column(box(
+                  background = 'maroon',
+                  width = 12,
+                  plotlyOutput('female_cessation')
+                ), width = 6))
+      )
     )
   )
 ))
