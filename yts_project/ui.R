@@ -2,7 +2,7 @@ shinyUI(dashboardPage(
   # Set the skin color to blue
   skin = 'blue',
   # Give a title
-  dashboardHeader(title = "YTS Data Inspection"),
+  dashboardHeader(title = "YTS DataVis Tool"),
   dashboardSidebar(
     sidebarMenu(
       # Create different tabs
@@ -20,15 +20,34 @@ shinyUI(dashboardPage(
     tabItems(
       # Intro tab
       tabItem(tabName = "intro",
-              fluidRow(column(8, align="center", offset = 2,
-                              box(htmlOutput('intro_header'), htmlOutput('intro_author'), width = 20, 
-                                  background = 'light-blue'),
-                              tags$style(type="text/css", "#string { text-align:center }"))),
-              fluidRow(column(10, align="center", offset = 1,
-                              box(htmlOutput('intro_body1'), div(img(src="range_map.jpg", height=350, width=350)),
-                                  htmlOutput('intro_body2'), htmlOutput('intro_body3'), htmlOutput('intro_body4'), width = 20, background = 'light-blue'),
-                              tags$style(type="text/css", "#string { text-align:justified }")))
-      ),
+              # Title text
+              fluidRow(column(width = 8,
+                              align="center",
+                              offset = 2,
+                              box(
+                                width = 20, 
+                                background = 'light-blue',
+                                h1('Youth Tobacco Survey Data Visualization Tool'),
+                                h3('Created by: Alex Baransky')
+                                ))),
+              # Title picture
+              fluidRow(column(
+                width = 8,
+                align = 'center',
+                offset = 2,
+                div(img(src="cigarettes.jpg", height='65%', width='65%')),
+                br()
+              )),
+              # Title body
+              fluidRow(column(width = 10,
+                              align="center",
+                              offset = 1,
+                              box(
+                                width = 20,
+                                background = 'light-blue',
+                                p('This is some text that introduces the user to the app and the subject.')
+                              ))
+              )),
       # Heat map tab
       tabItem(tabName = "map",
               fluidRow(box(
@@ -42,19 +61,43 @@ shinyUI(dashboardPage(
               fluidRow(box(
                 # Widgets
                 column(
-                  selectInput('map_year', 'Choose a year:', choices=unique(ms_data$YEAR)[order(unique(ms_data$YEAR))]),
-                  radioButtons('map_measure', 'Choose a category:', choices=c('Cigarette Use', 'Smokeless Tobacco Use')),
+                  selectInput('map_year', 'Choose a year:', choices=unique(ms_data$YEAR)[order(unique(ms_data$YEAR), decreasing = TRUE)]),
+                  selectInput('map_response', 'Choose a habit:', choices=unique(ms_data$Response), selected = 'Current'),
                   width = 6
                 ),
                 column(
-                  selectInput('map_response', 'Choose a habit:', choices=unique(ms_data$Response), selected = 'Current'),
-                  selectInput('map_gender', 'Choose a gender:', choices=unique(ms_data$Gender)),
+                  radioButtons('map_measure', 'Choose a category:', choices=c('Cigarette Use', 'Smokeless Tobacco Use')),
                   width = 6
                 ),
                 width = 12
               )),
-              # Plotly map output
-              fluidRow(box(plotlyOutput("map"), width = 12))
+              # Map title
+              fluidRow(box(
+                background = 'light-blue',
+                width = 12,
+                align = 'center',
+                # Text description
+                h3(textOutput('map_text'))
+              )),
+              # Plotly overall map output
+              fluidRow(box(plotlyOutput("overall_map"), width = 12)),
+              fluidRow(
+                # Male map
+                column(box(
+                  background = 'light-blue',
+                  width = 12,
+                  plotlyOutput('male_map')
+                ), width = 6),
+                # Female map
+                column(box(
+                  background = 'maroon',
+                  width = 12,
+                  plotlyOutput('female_map')
+                ), width = 6))
+              # # Male map output
+              # fluidRow(box(plotlyOutput("male_map"), width = 12)),
+              # # Female map output
+              # fluidRow(box(plotlyOutput("female_map"), width = 12))
               ),
       # State trend tab
       tabItem(tabName = 'trends',
@@ -68,22 +111,34 @@ shinyUI(dashboardPage(
               )),
               # Widgets
               fluidRow(box(
-                selectInput('trend_state', 'Choose a state:', choices=unique(ms_data$LocationAbbr)[order(unique(ms_data$LocationAbbr))]),
+                selectInput('trend_state', 'Choose a state:', choices=unique(ms_data$LocationDesc)[order(unique(ms_data$LocationDesc))]),
                 radioButtons('trend_measure', 'Choose a category:', choices=c('Cigarette Use', 'Smokeless Tobacco Use')),
                 width = 12
+              )),
+              # Graph title
+              fluidRow(box(
+                background = 'light-blue',
+                width = 12,
+                align = 'center',
+                # Text description
+                h3(textOutput('trend_text'))
               )),
               # Overall graph
               fluidRow(box(plotlyOutput('overall_trend'), width = 12)),
               fluidRow(
+                # Male graph
                 column(box(
+                  background = 'light-blue',
                   width = 12,
                   plotlyOutput('male_trend')
                 ), width = 6),
+                # Female graph
                 column(box(
+                  background = 'maroon',
                   width = 12,
                   plotlyOutput('female_trend')
-                ), width = 6)
-              )),
+                ), width = 6))
+              ),
       tabItem(tabName = 'change',
               fluidRow(box(plotOutput("change"), width = 12)),
               fluidRow(htmlOutput('select_state'))),
