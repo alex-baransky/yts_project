@@ -1,5 +1,14 @@
 shinyServer(function(input, output) {
   
+  output$trial_text = renderText({
+    HTML('The Youth Tobacco Survey (YTS) data set contains information collected by
+         the Centers for Disease Control and Prevention on smoking and cessation (quitting) habits of 
+         students in grades 6 through 12 (Middle School and High School). The version of the survey used for this
+         application includes observations from 1999 to 2017. Each observation is a state summary of the perctenage 
+         of students who reported to use tobacco or have a desire to quit. This is further broken down by gender, 
+         how often the student uses tobacco, and whether they want to quit or have attempted to quit.')
+  })
+  
   # Reactive data that returns a dataframe filtered by user input, for usage heat map
   usage_map_data = reactive({
     if (input$hs_or_ms == 'High School'){
