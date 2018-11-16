@@ -54,17 +54,17 @@ shinyUI(dashboardPage(
                                    students in grades 6 through 12 (Middle School and High School). The version of the survey used for this
                                    application includes observations from 1999 to 2017. Each observation is a state summary of the perctenage 
                                    of students who reported to use tobacco or have a desire to quit. This is further broken down by gender, 
-                                   how often the student uses tobacco, and whether they want to quit or have attempted to quit. In addition
-                                   to use percentage, the data also contains sample size, standard error and confidence intervals.',
+                                   tobacco use frequency, and desire or attempt to quit. In addition
+                                   to using percentages, the dataset also contains sample size, standard error and confidence intervals.',
                                    style="font-size:115%;"),
                                 hr(),
                                 p('The purpose of this application is to visualize country- and state-level trends
-                                  in the reported percentages of tobacco using students. The visualizations should aid in
+                                  in the reported percentages of tobacco-using students. The visualizations should aid in
                                   finding problem states where cigarette or smokeless tobacco use has resisted decline, or even increased,
                                   in the past 18 years. This tool can also help detect areas of the country where tobacco use has substantially
-                                  declined, shining a light on potentially outstanding education or anti-smoking programs. The visualizations
+                                  declined, shining a light on potentially effective education or anti-tobacco programs. The visualizations
                                   can also help detect possible deviations between male and female trends. The goal is to extract insights from 
-                                  the data that can aid anti-smoking media campaigns and tobacco education/cessation programs in targeting high risk states.
+                                  the data that can aid anti-tobacco media campaigns and tobacco education/cessation programs in targeting high risk states.
                                   The programs can be further tagreted towards male or female audiences if there is a deviation in trend for specific states.',
                                   style="font-size:115%;")
                               ))
@@ -109,7 +109,7 @@ shinyUI(dashboardPage(
                                   style="font-size:115%;"),
                                 hr(),
                                 h3('Using the Plots', align='center'),
-                                p('The plots are rendered using the plotly package. You can hover over data points to see a popup with more information
+                                p('The plots are rendered using the Plotly package. You can hover over data points to see a popup with more information
                                   about that particular point. For line plots, you can click and drag on the plot to zoom in on an interesting area. Double
                                   click on the plot to reset the zoom to default.',
                                   style="font-size:115%;")
@@ -489,19 +489,21 @@ shinyUI(dashboardPage(
                                 width = 20,
                                 background = 'light-blue',
                                 p('I feel the most important part of data science is getting the data to a form where it is usable; someone
-                                  once descrined this to me as "activating the data." I set out to find varying trends in this data set between different
+                                  once described this to me as "activating the data." I set out to find varying trends in this data set between different
                                   genders, education level, and tobacco usage, and the result was a comprehensive visualization tool that will allow
-                                  even a non-data scientist to identify areas of interests. Identifying these areas of interest allows organizations to
+                                  even a non-data scientist to identify areas of interest. Identifying these areas of interest allows organizations to
                                   wisely invest time and money into further investigation of potential topics that will produce results. Through the use of this
                                   tool, I have demonstrated the power of visualization and how it can be used to direct business decisions.',
                                   style="font-size:115%;"),
                                 p('In terms of the YTS dataset specifically, I identified many areas of interest. I think the most dramatic discovery was the
-                                  heavy increase of smokeless tobacco use in the past couple years. This contrasts with the almost universal decrease in cigarette use.
+                                  heavy increase of smokeless tobacco use in the past couple of years. This contrasts with the almost universal decrease in cigarette use.
                                   It is possible that smokeless tobacco has been slightly overlooked in youth tobacco education programs and my findings show that it is
-                                  definitely an important topic and demands the necessary resources to prevent youths from picking up or continuing the habit. Another
+                                  definitely an important topic and demands the necessary resources to prevent youth from picking up or continuing the habit. Another
                                   interesting discovery was the female-specific increase in smokeless tobacco use. In the earlier years of the dataset, smokeless tobacco
                                   use was higher in male students. However, over the past few years, female students have been starting to use this tobacco product. This
-                                  may call for a greater investment in female-specific smokeless tobacco education and cessation programs.',
+                                  may call for a greater investment in gender targeted smokeless tobacco education and cessation programs. It could also be the case that
+                                  e-cigarette use is lumped into the smokeless tobacco category, in which case it makes sense that this category should be increasing taking
+                                  into account the boom in e-cigarette use over the last few years.',
                                   style="font-size:115%;")
                               ))
               ),
@@ -523,14 +525,20 @@ shinyUI(dashboardPage(
                                 background = 'light-blue',
                                 p("Going forward there are a number of additional steps I could take to improve on this tool and analysis. I didn't
                                   include any statistical testing because my main goal was to point out areas that should be investigated more closely.
-                                  Performing statistical tests between different groups (cigarette vs. smokeless, male vs. female) would add to the validaty
+                                  Performing statistical tests between different groups (cigarette vs. smokeless, male vs. female) would add to the validity
                                   of the analysis. Another interesting addition would be to produce an overall change map that shows the change in use between
-                                  male and female sepcifically. This could show how cigarette and smokeless tobacco use by gender has changed over the last 18
+                                  male and female specifically. This could show how cigarette and smokeless tobacco use by gender has changed over the last 18
                                   years. One last additional feature would be to produce regression models for each state for different categories. Although there
                                   are many states in the data that do not have sufficient points to produce a predictive model, it would be interesting to produce models
                                   for states with perhaps 15 or more years worth of data. These regressions could be plotted to give a rough estimate of
                                   what the percentage of users or quitters will be in subsequent years."
                                   ,
+                                  style="font-size:115%;"),
+                                p('Another interesting approach to the dataset would be to inspect trends in other data. For example, how does the frequency of
+                                  tobacco incidents in top grossing movies affect the level of youth tobacco usage in the following years? Or how does the state
+                                  tax of tobacco product affect the level of youth tobacco usage? This data set did not mention the use of e-cigarette devices,
+                                  but this is also a very interesting area and the large decrease in cigarette use could be connected to the massive uprising of
+                                  e-cigarette use in the past few years.',
                                   style="font-size:115%;")
                                 ))
               ))
