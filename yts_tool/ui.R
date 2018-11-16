@@ -531,8 +531,7 @@ shinyUI(dashboardPage(
                                   years. One last additional feature would be to produce regression models for each state for different categories. Although there
                                   are many states in the data that do not have sufficient points to produce a predictive model, it would be interesting to produce models
                                   for states with perhaps 15 or more years worth of data. These regressions could be plotted to give a rough estimate of
-                                  what the percentage of users or quitters will be in subsequent years."
-                                  ,
+                                  what the percentage of users or quitters will be in subsequent years.",
                                   style="font-size:115%;"),
                                 p('Another interesting approach to the dataset would be to inspect trends in other data. For example, how does the frequency of
                                   tobacco incidents in top grossing movies affect the level of youth tobacco usage in the following years? Or how does the state
