@@ -494,8 +494,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2015,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,2.0,0.6,1.0,3.1,821.0,Female,High School
 2015,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,6.7,1.0,4.8,8.6,816.0,Female,High School
 2015,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,821.0,Female,High School
-2015,US,National (States and DC),Cessation,Want to Quit,,60.6,2.3,56.0,65.1,665.0,Overall,High School
-2015,US,National (States and DC),Cessation,Quit Attempt,,57.8,2.4,53.0,62.6,723.0,Overall,High School
 2015,NE,Nebraska,Cessation,Want to Quit,,42.2,4.5,33.3,51.1,172.0,Overall,High School
 2015,NE,Nebraska,Cessation,Want to Quit,,44.0,7.3,29.6,58.3,86.0,Male,High School
 2015,NE,Nebraska,Cessation,Want to Quit,,39.6,5.9,28.1,51.1,85.0,Female,High School
@@ -757,8 +755,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2014,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,2.0,0.6,1.0,3.1,821.0,Female,High School
 2014,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,6.7,1.0,4.8,8.6,816.0,Female,High School
 2014,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,821.0,Female,High School
-2014,US,National (States and DC),Cessation,Want to Quit,,62.1,2.0,58.1,66.0,846.0,Overall,High School
-2014,US,National (States and DC),Cessation,Quit Attempt,,58.8,2.4,54.1,63.5,939.0,Overall,High School
 2014,NE,Nebraska,Cessation,Want to Quit,,42.2,4.5,33.3,51.1,172.0,Overall,High School
 2014,NE,Nebraska,Cessation,Want to Quit,,44.0,7.3,29.6,58.3,86.0,Male,High School
 2014,NE,Nebraska,Cessation,Want to Quit,,39.6,5.9,28.1,51.1,85.0,Female,High School
@@ -854,7 +850,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2013,CT,Connecticut,Smokeless Tobacco Use,User Status,Frequent,3.1,0.6,1.9,4.3,1233.0,Male,High School
 2013,CT,Connecticut,Smokeless Tobacco Use,User Status,Current,1.1,0.4,0.3,1.9,1194.0,Female,High School
 2013,CT,Connecticut,Smokeless Tobacco Use,User Status,Ever,2.9,0.5,2.0,3.8,1193.0,Female,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Ever,67.3,2.2,63.0,71.5,757.0,Female,High School
 2013,CT,Connecticut,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,1194.0,Female,High School
 2013,GA,Georgia,Cessation,Want to Quit,,51.3,3.3,44.9,57.7,180.0,Overall,High School
 2013,GA,Georgia,Cessation,Want to Quit,,51.3,4.3,42.8,59.8,107.0,Male,High School
@@ -994,8 +989,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2013,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,2.4,0.7,1.1,3.7,845.0,Female,High School
 2013,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,6.4,1.0,4.4,8.4,842.0,Female,High School
 2013,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.5,845.0,Female,High School
-2013,US,National (States and DC),Cessation,Want to Quit,,58.2,1.8,54.7,61.6,980.0,Overall,High School
-2013,US,National (States and DC),Cessation,Quit Attempt,,56.5,1.8,53.1,60.0,1048.0,Overall,High School
 2013,NE,Nebraska,Cessation,Want to Quit,,48.9,4.8,39.4,58.4,236.0,Overall,High School
 2013,NE,Nebraska,Cessation,Want to Quit,,51.1,5.1,41.1,61.1,137.0,Male,High School
 2013,NE,Nebraska,Cessation,Want to Quit,,45.6,8.5,29.0,62.2,98.0,Female,High School
@@ -1096,7 +1089,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2013,SC,South Carolina,Cessation,Want to Quit,,32.8,4.7,23.6,42.0,85.0,Male,High School
 2013,SC,South Carolina,Cessation,Want to Quit,,48.3,4.9,38.7,57.9,97.0,Female,High School
 2013,SC,South Carolina,Cessation,Quit Attempt,,57.6,2.9,51.9,63.3,211.0,Overall,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Frequent,13.0,1.5,10.1,16.0,761.0,Female,High School
 2013,SC,South Carolina,Cessation,Quit Attempt,,52.6,4.3,44.1,61.1,101.0,Male,High School
 2013,SC,South Carolina,Cessation,Quit Attempt,,63.4,4.8,54.0,72.8,109.0,Female,High School
 2013,SC,South Carolina,Cigarette Use,Smoking Status,Current,15.3,1.5,12.4,18.2,1531.0,Overall,High School
@@ -1204,8 +1196,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2012,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,1.7,0.4,0.9,2.5,822.0,Female,High School
 2012,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,6.6,0.8,5.0,8.2,812.0,Female,High School
 2012,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,822.0,Female,High School
-2012,US,National (States and DC),Cessation,Want to Quit,,64.8,1.2,62.4,67.2,1435.0,Overall,High School
-2012,US,National (States and DC),Cessation,Quit Attempt,,57.7,1.5,54.8,60.5,1550.0,Overall,High School
 2012,NE,Nebraska,Cigarette Use,Smoking Status,Current,11.7,1.1,9.5,13.9,2409.0,Overall,High School
 2012,NE,Nebraska,Cigarette Use,Smoking Status,Ever,34.6,2.6,29.6,39.6,2380.0,Overall,High School
 2012,NE,Nebraska,Cigarette Use,Smoking Status,Frequent,5.1,0.6,3.9,6.3,2409.0,Overall,High School
@@ -1359,27 +1349,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2011,LA,Louisiana,Smokeless Tobacco Use,User Status,Current,3.3,1.2,1.0,5.6,554.0,Female,High School
 2011,LA,Louisiana,Smokeless Tobacco Use,User Status,Ever,7.7,1.1,5.5,9.9,548.0,Female,High School
 2011,LA,Louisiana,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.3,554.0,Female,High School
-2011,MI,Michigan,Cessation,Want to Quit,,40.8,3.4,34.1,47.5,444.0,Overall,High School
-2011,MI,Michigan,Cessation,Want to Quit,,39.5,3.6,32.4,46.6,242.0,Male,High School
-2011,MI,Michigan,Cessation,Want to Quit,,41.6,4.4,32.9,50.3,197.0,Female,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Current,16.5,1.4,13.8,19.2,4055.0,Overall,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Ever,40.0,1.7,36.7,43.3,3965.0,Overall,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Frequent,7.4,1.1,5.3,9.5,4055.0,Overall,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Current,18.4,1.9,14.6,22.2,1992.0,Male,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Ever,42.2,2.7,37.0,47.4,1933.0,Male,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Frequent,8.6,1.4,5.9,11.3,1992.0,Male,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Current,14.4,1.4,11.7,17.1,2031.0,Female,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Ever,37.7,1.6,34.5,40.9,2002.0,Female,High School
-2011,MI,Michigan,Cigarette Use,Smoking Status,Frequent,6.0,1.2,3.7,8.3,2031.0,Female,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Current,7.8,1.0,5.9,9.7,4099.0,Overall,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,16.9,1.7,13.5,20.3,4096.0,Overall,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,2.9,0.6,1.8,4.0,4099.0,Overall,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Current,12.2,1.3,9.7,14.7,2013.0,Male,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,25.1,2.5,20.2,30.0,2014.0,Male,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,4.0,0.6,2.8,5.2,2013.0,Male,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Current,3.1,0.5,2.1,4.1,2055.0,Female,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,8.5,1.1,6.3,10.7,2052.0,Female,High School
-2011,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,1.7,0.6,0.5,2.9,2055.0,Female,High School
 2011,MO,Missouri,Cessation,Want to Quit,,47.5,4.2,39.3,55.7,231.0,Overall,High School
 2011,MO,Missouri,Cessation,Want to Quit,,45.4,4.5,36.5,54.3,129.0,Male,High School
 2011,MO,Missouri,Cessation,Want to Quit,,49.8,7.1,35.9,63.7,102.0,Female,High School
@@ -1401,7 +1370,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2011,MO,Missouri,Smokeless Tobacco Use,User Status,Current,2.5,0.9,0.8,4.2,693.0,Female,High School
 2011,MO,Missouri,Smokeless Tobacco Use,User Status,Ever,11.0,1.9,7.3,14.7,695.0,Female,High School
 2011,MO,Missouri,Smokeless Tobacco Use,User Status,Frequent,0.7,0.4,0.0,1.5,693.0,Female,High School
-2011,US,National (States and DC),Cessation,Quit Attempt,,56.7,1.9,53.0,60.5,1261.0,Overall,High School
 2011,NH,New Hampshire,Cessation,Want to Quit,,41.2,4.0,33.4,49.0,185.0,Overall,High School
 2011,NH,New Hampshire,Cessation,Want to Quit,,40.1,4.9,30.4,49.8,102.0,Male,High School
 2011,NH,New Hampshire,Cessation,Want to Quit,,42.8,4.6,33.7,51.9,80.0,Female,High School
@@ -1942,7 +1910,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2009,MO,Missouri,Smokeless Tobacco Use,User Status,Current,4.6,1.0,2.6,6.6,748.0,Female,High School
 2009,MO,Missouri,Smokeless Tobacco Use,User Status,Ever,12.2,2.3,7.6,16.8,747.0,Female,High School
 2009,MO,Missouri,Smokeless Tobacco Use,User Status,Frequent,1.0,0.4,0.3,1.7,748.0,Female,High School
-2009,US,National (States and DC),Cessation,Quit Attempt,,53.7,2.0,49.8,57.7,2042.0,Overall,High School
 2009,NH,New Hampshire,Cessation,Want to Quit,,40.3,3.7,33.1,47.5,200.0,Overall,High School
 2009,NH,New Hampshire,Cessation,Want to Quit,,37.4,5.7,26.2,48.6,93.0,Male,High School
 2009,NH,New Hampshire,Cessation,Want to Quit,,43.2,5.2,33.1,53.3,107.0,Female,High School
@@ -2369,27 +2336,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2007,CT,Connecticut,Smokeless Tobacco Use,User Status,Current,1.4,0.4,0.6,2.2,965.0,Female,High School
 2007,CT,Connecticut,Smokeless Tobacco Use,User Status,Ever,4.3,1.0,2.3,6.3,959.0,Female,High School
 2007,CT,Connecticut,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.2,965.0,Female,High School
-2007,MI,Michigan,Cessation,Want to Quit,,42.9,2.8,37.5,48.3,376.0,Overall,High School
-2007,MI,Michigan,Cessation,Want to Quit,,38.7,2.9,33.0,44.4,199.0,Male,High School
-2007,MI,Michigan,Cessation,Want to Quit,,48.3,5.4,37.8,58.8,176.0,Female,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Current,19.7,1.1,17.5,21.9,2595.0,Overall,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Ever,47.1,2.1,43.0,51.2,2546.0,Overall,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Frequent,6.8,0.9,5.0,8.6,2595.0,Overall,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Current,22.7,1.5,19.8,25.6,1261.0,Male,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Ever,49.0,2.0,45.1,52.9,1233.0,Male,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Frequent,8.6,1.2,6.3,10.9,1261.0,Male,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Current,16.6,1.4,13.8,19.4,1330.0,Female,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Ever,45.2,3.1,39.1,51.3,1310.0,Female,High School
-2007,MI,Michigan,Cigarette Use,Smoking Status,Frequent,5.0,0.9,3.3,6.7,1330.0,Female,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Current,8.7,1.1,6.5,10.9,2604.0,Overall,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,18.0,1.0,16.0,20.0,2571.0,Overall,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,1.1,0.4,0.3,1.9,2604.0,Overall,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Current,13.8,1.5,10.8,16.8,1263.0,Male,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,27.9,1.7,24.5,31.3,1240.0,Male,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,2.2,0.8,0.7,3.7,1263.0,Male,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Current,3.7,1.6,0.5,6.9,1335.0,Female,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,8.5,0.8,7.0,10.0,1327.0,Female,High School
-2007,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.2,1335.0,Female,High School
 2007,MO,Missouri,Cessation,Want to Quit,,47.8,4.2,39.5,56.1,194.0,Overall,High School
 2007,MO,Missouri,Cessation,Want to Quit,,51.1,5.4,40.5,61.7,95.0,Male,High School
 2007,MO,Missouri,Cessation,Want to Quit,,44.6,5.1,34.7,54.5,99.0,Female,High School
@@ -2480,9 +2426,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2007,OK,Oklahoma,Smokeless Tobacco Use,User Status,Current,3.0,0.6,1.8,4.2,1406.0,Female,High School
 2007,OK,Oklahoma,Smokeless Tobacco Use,User Status,Ever,12.2,1.2,9.9,14.5,1406.0,Female,High School
 2007,OK,Oklahoma,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.3,1.3,1406.0,Female,High School
-2007,PR,Puerto Rico,Cigarette Use,Smoking Status,Ever,30.5,2.1,26.4,34.6,1592.0,Overall,High School
-2007,PR,Puerto Rico,Cigarette Use,Smoking Status,Ever,37.0,2.6,31.9,42.1,729.0,Male,High School
-2007,PR,Puerto Rico,Cigarette Use,Smoking Status,Ever,24.7,2.3,20.1,29.3,851.0,Female,High School
 2007,SC,South Carolina,Cessation,Want to Quit,,40.3,5.8,29.0,51.6,159.0,Overall,High School
 2007,SC,South Carolina,Cessation,Want to Quit,,32.1,7.6,17.2,47.0,76.0,Male,High School
 2007,SC,South Carolina,Cessation,Want to Quit,,48.0,5.4,37.4,58.6,81.0,Female,High School
@@ -2504,30 +2447,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2007,SC,South Carolina,Smokeless Tobacco Use,User Status,Current,3.5,1.2,1.2,5.8,611.0,Female,High School
 2007,SC,South Carolina,Smokeless Tobacco Use,User Status,Ever,10.5,1.6,7.4,13.6,619.0,Female,High School
 2007,SC,South Carolina,Smokeless Tobacco Use,User Status,Frequent,1.2,0.6,0.1,2.3,611.0,Female,High School
-2007,UT,Utah,Cessation,Want to Quit,,47.3,6.3,34.9,59.7,274.0,Overall,High School
-2007,UT,Utah,Cessation,Want to Quit,,49.8,7.7,34.8,64.8,149.0,Male,High School
-2007,UT,Utah,Cessation,Want to Quit,,42.8,6.6,29.8,55.8,123.0,Female,High School
-2007,UT,Utah,Cessation,Quit Attempt,,39.7,5.4,29.2,50.2,320.0,Overall,High School
-2007,UT,Utah,Cessation,Quit Attempt,,37.5,7.4,23.0,52.0,179.0,Male,High School
-2007,UT,Utah,Cessation,Quit Attempt,,44.2,6.7,31.0,57.4,139.0,Female,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Current,7.9,0.6,6.7,9.1,4107.0,Overall,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Ever,23.1,1.2,20.7,25.5,3988.0,Overall,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Frequent,3.0,0.4,2.2,3.8,4107.0,Overall,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Current,10.1,0.9,8.3,11.9,1988.0,Male,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Ever,23.6,1.4,20.8,26.4,1924.0,Male,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Frequent,4.1,0.6,2.9,5.3,1988.0,Male,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Current,5.7,0.7,4.4,7.0,2106.0,Female,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Ever,22.4,1.5,19.4,25.4,2050.0,Female,High School
-2007,UT,Utah,Cigarette Use,Smoking Status,Frequent,2.0,0.4,1.3,2.7,2106.0,Female,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Current,4.5,0.6,3.4,5.6,4199.0,Overall,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Ever,10.3,0.8,8.8,11.8,4146.0,Overall,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,1.2,0.2,0.8,1.6,4199.0,Overall,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Current,7.0,1.0,5.1,8.9,2036.0,Male,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Ever,14.3,1.4,11.6,17.0,1995.0,Male,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,1.9,0.4,1.1,2.7,2036.0,Male,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.6,0.3,1.0,2.2,2147.0,Female,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Ever,6.0,0.8,4.5,7.5,2137.0,Female,High School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,2147.0,Female,High School
 2007,WV,West Virginia,Cessation,Want to Quit,,53.8,4.7,44.5,63.1,241.0,Overall,High School
 2007,WV,West Virginia,Cessation,Want to Quit,,56.2,5.1,46.2,66.2,119.0,Male,High School
 2007,WV,West Virginia,Cessation,Want to Quit,,53.2,5.3,42.8,63.6,116.0,Female,High School
@@ -2693,7 +2612,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2006,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,5.3,1.4,2.6,8.0,748.0,Female,High School
 2006,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,7.8,2.1,3.7,11.9,725.0,Female,High School
 2006,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.6,748.0,Female,High School
-2006,US,National (States and DC),Cessation,Quit Attempt,,54.8,1.6,51.8,57.9,2236.0,Overall,High School
 2006,NE,Nebraska,Cessation,Want to Quit,,52.8,2.3,48.2,57.4,409.0,Overall,High School
 2006,NE,Nebraska,Cessation,Want to Quit,,55.6,3.7,48.4,62.8,187.0,Male,High School
 2006,NE,Nebraska,Cessation,Want to Quit,,50.2,3.5,43.4,57.0,219.0,Female,High School
@@ -3033,30 +2951,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2005,OK,Oklahoma,Smokeless Tobacco Use,User Status,Current,2.8,0.7,1.4,4.2,660.0,Female,High School
 2005,OK,Oklahoma,Smokeless Tobacco Use,User Status,Ever,12.8,1.9,9.1,16.5,660.0,Female,High School
 2005,OK,Oklahoma,Smokeless Tobacco Use,User Status,Frequent,1.0,0.6,0.0,2.2,660.0,Female,High School
-2005,RI,Rhode Island,Cessation,Want to Quit,,54.6,3.5,47.7,61.5,286.0,Overall,High School
-2005,RI,Rhode Island,Cessation,Want to Quit,,57.8,4.2,49.6,65.9,130.0,Male,High School
-2005,RI,Rhode Island,Cessation,Want to Quit,,51.6,4.8,42.2,61.1,155.0,Female,High School
-2005,RI,Rhode Island,Cessation,Quit Attempt,,54.6,2.0,50.7,58.6,325.0,Overall,High School
-2005,RI,Rhode Island,Cessation,Quit Attempt,,55.7,4.5,46.8,64.6,160.0,Male,High School
-2005,RI,Rhode Island,Cessation,Quit Attempt,,53.2,4.6,44.2,62.1,164.0,Female,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Current,18.5,1.8,15.1,21.9,2256.0,Overall,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,48.5,1.8,45.0,52.0,2155.0,Overall,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,8.4,1.0,6.4,10.4,2256.0,Overall,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Current,17.4,1.8,13.8,20.9,1145.0,Male,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,45.5,1.6,42.3,48.8,1081.0,Male,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,7.9,1.4,5.1,10.7,1145.0,Male,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Current,19.6,2.5,14.7,24.5,1101.0,Female,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,51.5,2.9,45.9,57.2,1064.0,Female,High School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,8.7,1.4,6.0,11.5,1101.0,Female,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,3.4,0.5,2.4,4.4,2275.0,Overall,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,12.5,0.8,10.9,14.1,2259.0,Overall,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.4,1.1,2275.0,Overall,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,5.5,0.8,3.9,7.2,1158.0,Male,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,18.1,1.7,14.8,21.3,1147.0,Male,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,1.1,0.3,0.4,1.7,1158.0,Male,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.3,0.4,0.5,2.1,1105.0,Female,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,6.8,0.7,5.3,8.2,1101.0,Female,High School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.6,1105.0,Female,High School
 2005,SC,South Carolina,Cessation,Want to Quit,,39.2,3.9,31.5,47.0,197.0,Overall,High School
 2005,SC,South Carolina,Cessation,Want to Quit,,34.3,5.0,24.4,44.2,99.0,Male,High School
 2005,SC,South Carolina,Cessation,Want to Quit,,44.9,4.1,36.9,52.8,97.0,Female,High School
@@ -3081,30 +2975,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2005,SC,South Carolina,Smokeless Tobacco Use,User Status,Current,2.3,0.6,1.0,3.5,656.0,Female,High School
 2005,SC,South Carolina,Smokeless Tobacco Use,User Status,Ever,10.5,1.5,7.5,13.5,646.0,Female,High School
 2005,SC,South Carolina,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,656.0,Female,High School
-2005,UT,Utah,Cessation,Want to Quit,,48.9,7.2,34.9,62.9,213.0,Overall,High School
-2005,UT,Utah,Cessation,Want to Quit,,44.6,10.5,24.0,65.2,107.0,Male,High School
-2005,UT,Utah,Cessation,Want to Quit,,57.4,7.2,43.4,71.5,105.0,Female,High School
-2005,UT,Utah,Cessation,Quit Attempt,,49.6,8.5,32.9,66.3,257.0,Overall,High School
-2005,UT,Utah,Cessation,Quit Attempt,,51.5,10.4,31.2,71.8,135.0,Male,High School
-2005,UT,Utah,Cessation,Quit Attempt,,45.8,6.9,32.2,59.4,120.0,Female,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Current,10.3,1.7,7.0,13.6,3244.0,Overall,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Ever,28.0,2.7,22.8,33.2,3169.0,Overall,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Frequent,4.0,1.1,1.7,6.2,3244.0,Overall,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Current,13.1,3.6,6.0,20.3,1547.0,Male,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Ever,32.7,3.6,25.7,39.7,1504.0,Male,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Frequent,6.0,2.2,1.7,10.2,1547.0,Male,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Current,7.4,1.0,5.4,9.4,1678.0,Female,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Ever,22.9,2.0,18.9,26.9,1652.0,Female,High School
-2005,UT,Utah,Cigarette Use,Smoking Status,Frequent,1.9,0.5,0.9,3.0,1678.0,Female,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Current,4.7,1.4,2.0,7.4,3296.0,Overall,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Ever,12.6,2.4,7.9,17.3,3279.0,Overall,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,1.5,0.4,0.8,2.3,3296.0,Overall,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Current,7.7,2.4,2.9,12.5,1564.0,Male,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Ever,19.7,4.0,11.9,27.4,1562.0,Male,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,2.3,0.5,1.4,3.3,1564.0,Male,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.3,0.5,0.3,2.4,1717.0,Female,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Ever,5.1,0.9,3.4,6.9,1703.0,Female,High School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.7,0.4,0.0,1.5,1717.0,Female,High School
 2005,WV,West Virginia,Cessation,Want to Quit,,55.0,4.2,46.9,63.1,280.0,Overall,High School
 2005,WV,West Virginia,Cessation,Want to Quit,,49.9,5.2,39.6,60.1,126.0,Male,High School
 2005,WV,West Virginia,Cessation,Want to Quit,,59.3,5.4,48.6,69.9,150.0,Female,High School
@@ -3267,7 +3137,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2004,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,4.5,0.6,3.3,5.6,1325.0,Female,High School
 2004,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,9.5,1.0,7.6,11.5,1296.0,Female,High School
 2004,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.5,0.2,0.2,0.8,1325.0,Female,High School
-2004,US,National (States and DC),Cessation,Quit Attempt,,57.6,1.4,54.9,60.3,2344.0,Overall,High School
 2004,NH,New Hampshire,Cessation,Want to Quit,,48.3,3.4,41.7,54.9,193.0,Overall,High School
 2004,NH,New Hampshire,Cessation,Want to Quit,,41.7,4.8,32.4,51.0,97.0,Male,High School
 2004,NH,New Hampshire,Cessation,Want to Quit,,55.8,6.0,44.0,67.7,94.0,Female,High School
@@ -3337,54 +3206,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2004,NC,North Carolina,Smokeless Tobacco Use,User Status,Current,1.8,0.4,1.1,2.5,1608.0,Female,High School
 2004,NC,North Carolina,Smokeless Tobacco Use,User Status,Ever,10.7,1.1,8.5,12.9,1591.0,Female,High School
 2004,NC,North Carolina,Smokeless Tobacco Use,User Status,Frequent,0.5,0.2,0.1,1.0,1608.0,Female,High School
-2004,VT,Vermont,Cessation,Want to Quit,,56.7,3.0,50.8,62.5,246.0,Overall,High School
-2004,VT,Vermont,Cessation,Want to Quit,,58.2,5.2,48.0,68.4,117.0,Male,High School
-2004,VT,Vermont,Cessation,Want to Quit,,55.2,5.2,44.9,65.4,129.0,Female,High School
-2004,VT,Vermont,Cessation,Quit Attempt,,53.1,3.3,46.6,59.7,265.0,Overall,High School
-2004,VT,Vermont,Cessation,Quit Attempt,,54.7,3.9,47.1,62.3,127.0,Male,High School
-2004,VT,Vermont,Cessation,Quit Attempt,,51.6,4.9,41.9,61.3,137.0,Female,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Current,22.4,3.2,16.0,28.8,1396.0,Overall,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Ever,51.6,3.7,44.4,58.8,1351.0,Overall,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Frequent,12.6,2.4,7.9,17.3,1396.0,Overall,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Current,21.4,3.4,14.8,28.1,695.0,Male,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Ever,50.8,3.9,43.2,58.4,668.0,Male,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Frequent,13.8,2.3,9.3,18.4,695.0,Male,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Current,23.2,3.6,16.3,30.2,693.0,Female,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Ever,52.4,3.9,44.7,60.0,679.0,Female,High School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Frequent,11.4,2.7,6.1,16.7,693.0,Female,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Current,6.3,1.1,4.1,8.5,1423.0,Overall,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,17.7,2.1,13.5,21.8,1405.0,Overall,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,1.7,0.7,0.4,3.0,1423.0,Overall,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Current,10.2,1.9,6.5,13.9,710.0,Male,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,26.6,3.5,19.7,33.4,702.0,Male,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,3.0,1.3,0.5,5.6,710.0,Male,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Current,1.9,0.5,1.0,2.9,705.0,Female,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,8.3,1.5,5.4,11.1,698.0,Female,High School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.3,0.3,0.0,0.8,705.0,Female,High School
-2004,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Overall,High School
-2004,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Male,High School
-2004,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Female,High School
-2004,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Overall,High School
-2004,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Male,High School
-2004,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Female,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,3.1,0.6,1.9,4.3,1030.0,Overall,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,30.7,1.7,27.4,34.1,954.0,Overall,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.1,0.1,0.0,0.2,1030.0,Overall,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,3.1,0.9,1.3,4.8,450.0,Male,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,31.4,2.4,26.6,36.2,407.0,Male,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.0,0.0,0.0,0.0,450.0,Male,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,3.0,0.8,1.3,4.6,577.0,Female,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,30.2,2.6,25.1,35.4,545.0,Female,High School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.2,0.2,0.0,0.4,577.0,Female,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,0.8,0.3,0.3,1.3,1027.0,Overall,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,7.3,1.1,5.2,9.4,1041.0,Overall,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.5,1027.0,Overall,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,1.1,0.5,0.1,2.1,446.0,Male,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,9.2,1.6,6.1,12.3,455.0,Male,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.3,0.3,0.0,1.0,446.0,Male,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,0.5,0.3,0.0,1.1,579.0,Female,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,5.4,1.1,3.2,7.6,583.0,Female,High School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.4,579.0,Female,High School
 2004,WI,Wisconsin,Cessation,Want to Quit,,55.4,3.5,48.6,62.3,226.0,Overall,High School
 2004,WI,Wisconsin,Cessation,Want to Quit,,50.3,5.6,39.4,61.1,101.0,Male,High School
 2004,WI,Wisconsin,Cessation,Want to Quit,,59.7,4.7,50.6,68.8,124.0,Female,High School
@@ -3433,54 +3254,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,AZ,Arizona,Smokeless Tobacco Use,User Status,Current,1.8,0.5,0.8,2.8,813.0,Female,High School
 2003,AZ,Arizona,Smokeless Tobacco Use,User Status,Ever,8.3,0.9,6.6,10.1,812.0,Female,High School
 2003,AZ,Arizona,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.0,0.8,813.0,Female,High School
-2003,CA,California,Cessation,Want to Quit,,46.2,1.7,42.9,49.4,1510.0,Overall,High School
-2003,CA,California,Cessation,Want to Quit,,45.3,1.8,41.8,48.9,785.0,Male,High School
-2003,CA,California,Cessation,Want to Quit,,47.3,2.8,41.8,52.7,719.0,Female,High School
-2003,CA,California,Cessation,Quit Attempt,,42.9,2.2,38.5,47.2,1731.0,Overall,High School
-2003,CA,California,Cessation,Quit Attempt,,38.2,2.2,33.8,42.5,900.0,Male,High School
-2003,CA,California,Cessation,Quit Attempt,,48.6,3.5,41.8,55.5,825.0,Female,High School
-2003,CA,California,Cigarette Use,Smoking Status,Current,13.2,0.4,12.3,14.0,14610.0,Overall,High School
-2003,CA,California,Cigarette Use,Smoking Status,Ever,43.9,1.3,41.3,46.5,14325.0,Overall,High School
-2003,CA,California,Cigarette Use,Smoking Status,Frequent,2.8,0.2,2.4,3.2,14610.0,Overall,High School
-2003,CA,California,Cigarette Use,Smoking Status,Current,14.4,0.7,13.1,15.8,6848.0,Male,High School
-2003,CA,California,Cigarette Use,Smoking Status,Ever,45.8,1.7,42.4,49.3,6736.0,Male,High School
-2003,CA,California,Cigarette Use,Smoking Status,Frequent,3.5,0.3,2.8,4.2,6848.0,Male,High School
-2003,CA,California,Cigarette Use,Smoking Status,Current,11.9,0.7,10.4,13.4,7713.0,Female,High School
-2003,CA,California,Cigarette Use,Smoking Status,Ever,41.8,1.4,39.1,44.5,7544.0,Female,High School
-2003,CA,California,Cigarette Use,Smoking Status,Frequent,2.0,0.2,1.6,2.5,7713.0,Female,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Current,3.1,0.4,2.4,3.8,14697.0,Overall,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Ever,9.3,0.6,8.1,10.4,14826.0,Overall,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.6,0.1,0.4,0.8,14697.0,Overall,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Current,4.4,0.4,3.6,5.3,6880.0,Male,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Ever,12.3,0.9,10.6,14.1,6969.0,Male,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.9,0.2,0.6,1.3,6880.0,Male,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Current,1.7,0.5,0.8,2.7,7769.0,Female,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Ever,6.0,0.7,4.6,7.5,7810.0,Female,High School
-2003,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.1,0.3,7769.0,Female,High School
-2003,MI,Michigan,Cessation,Want to Quit,,57.6,2.0,53.7,61.5,699.0,Overall,High School
-2003,MI,Michigan,Cessation,Want to Quit,,55.6,3.1,49.5,61.7,291.0,Male,High School
-2003,MI,Michigan,Cessation,Want to Quit,,59.5,2.9,53.8,65.1,402.0,Female,High School
-2003,MI,Michigan,Cessation,Quit Attempt,,55.7,2.2,51.4,60.1,794.0,Overall,High School
-2003,MI,Michigan,Cessation,Quit Attempt,,48.2,3.6,41.2,55.3,336.0,Male,High School
-2003,MI,Michigan,Cessation,Quit Attempt,,61.9,2.3,57.4,66.5,454.0,Female,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Current,28.3,1.2,25.9,30.6,3457.0,Overall,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Ever,58.4,1.6,55.3,61.4,3307.0,Overall,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Frequent,13.9,0.7,12.5,15.2,3457.0,Overall,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Current,26.3,1.4,23.6,28.9,1635.0,Male,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Ever,56.5,1.5,53.5,59.4,1569.0,Male,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Frequent,13.3,0.9,11.5,15.0,1635.0,Male,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Current,29.9,1.7,26.6,33.3,1799.0,Female,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Ever,60.2,2.2,55.8,64.5,1727.0,Female,High School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Frequent,14.5,1.0,12.5,16.5,1799.0,Female,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Current,8.5,1.5,5.6,11.4,3523.0,Overall,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,18.9,2.0,15.0,22.8,3409.0,Overall,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,1.9,0.4,1.1,2.7,3523.0,Overall,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Current,11.8,1.5,8.8,14.8,1668.0,Male,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,27.0,2.3,22.5,31.5,1598.0,Male,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,2.8,0.6,1.6,4.0,1668.0,Male,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Current,4.3,1.4,1.4,7.1,1829.0,Female,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,10.5,1.9,6.9,14.2,1799.0,Female,High School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.7,0.3,0.1,1.3,1829.0,Female,High School
 2003,MS,Mississippi,Cessation,Want to Quit,,51.7,1.3,49.1,54.3,1829.0,Overall,High School
 2003,MS,Mississippi,Cessation,Want to Quit,,49.7,1.8,46.2,53.2,938.0,Male,High School
 2003,MS,Mississippi,Cessation,Want to Quit,,54.2,2.1,50.1,58.4,882.0,Female,High School
@@ -3550,30 +3323,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,ND,North Dakota,Smokeless Tobacco Use,User Status,Current,1.7,0.4,0.8,2.6,889.0,Female,High School
 2003,ND,North Dakota,Smokeless Tobacco Use,User Status,Ever,13.4,1.5,10.5,16.3,882.0,Female,High School
 2003,ND,North Dakota,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.6,889.0,Female,High School
-2003,RI,Rhode Island,Cessation,Want to Quit,,57.8,3.2,51.5,64.1,289.0,Overall,High School
-2003,RI,Rhode Island,Cessation,Want to Quit,,54.9,4.6,45.9,63.9,120.0,Male,High School
-2003,RI,Rhode Island,Cessation,Want to Quit,,60.9,3.0,55.0,66.9,165.0,Female,High School
-2003,RI,Rhode Island,Cessation,Quit Attempt,,58.1,3.2,52.0,64.3,264.0,Overall,High School
-2003,RI,Rhode Island,Cessation,Quit Attempt,,61.2,5.6,50.2,72.2,117.0,Male,High School
-2003,RI,Rhode Island,Cessation,Quit Attempt,,56.1,4.7,46.8,65.4,145.0,Female,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Current,17.5,1.4,14.7,20.2,2061.0,Overall,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,50.1,1.8,46.5,53.7,1999.0,Overall,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,8.4,1.0,6.4,10.4,2061.0,Overall,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Current,16.4,1.7,13.1,19.7,990.0,Male,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,47.5,2.3,42.9,52.1,950.0,Male,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,8.9,1.4,6.2,11.7,990.0,Male,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Current,18.2,1.5,15.2,21.2,1060.0,Female,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,52.5,2.2,48.2,56.8,1040.0,Female,High School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,7.9,1.2,5.5,10.3,1060.0,Female,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,3.6,0.4,2.8,4.5,2085.0,Overall,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,11.6,0.5,10.6,12.7,2060.0,Overall,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.8,0.1,0.5,1.0,2085.0,Overall,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,5.3,0.8,3.9,6.8,1007.0,Male,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,15.9,0.8,14.2,17.5,995.0,Male,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,1.0,0.2,0.6,1.4,1007.0,Male,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.3,0.3,0.7,1.9,1064.0,Female,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,7.2,0.8,5.7,8.8,1058.0,Female,High School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.4,1064.0,Female,High School
 2003,SD,South Dakota,Cessation,Want to Quit,,50.5,3.9,42.8,58.1,419.0,Overall,High School
 2003,SD,South Dakota,Cessation,Want to Quit,,43.8,4.7,34.6,52.9,213.0,Male,High School
 2003,SD,South Dakota,Cessation,Want to Quit,,59.3,4.3,50.9,67.7,204.0,Female,High School
@@ -3598,30 +3347,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,SD,South Dakota,Smokeless Tobacco Use,User Status,Current,6.0,0.9,4.3,7.8,961.0,Female,High School
 2003,SD,South Dakota,Smokeless Tobacco Use,User Status,Ever,17.2,1.6,14.0,20.4,958.0,Female,High School
 2003,SD,South Dakota,Smokeless Tobacco Use,User Status,Frequent,1.6,0.4,0.7,2.4,961.0,Female,High School
-2003,UT,Utah,Cessation,Want to Quit,,59.7,7.0,46.0,73.4,191.0,Overall,High School
-2003,UT,Utah,Cessation,Want to Quit,,57.0,8.0,41.3,72.6,117.0,Male,High School
-2003,UT,Utah,Cessation,Want to Quit,,63.1,8.2,47.1,79.2,73.0,Female,High School
-2003,UT,Utah,Cessation,Quit Attempt,,58.5,4.7,49.4,67.7,226.0,Overall,High School
-2003,UT,Utah,Cessation,Quit Attempt,,52.0,4.7,42.8,61.1,132.0,Male,High School
-2003,UT,Utah,Cessation,Quit Attempt,,66.6,6.8,53.2,80.0,93.0,Female,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Current,8.8,1.8,5.3,12.3,2536.0,Overall,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Ever,28.9,3.6,21.7,36.0,2483.0,Overall,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Frequent,3.2,0.8,1.6,4.7,2536.0,Overall,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Current,10.1,2.1,6.0,14.2,1310.0,Male,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Ever,30.9,3.7,23.6,38.1,1278.0,Male,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Frequent,4.2,1.3,1.7,6.7,1310.0,Male,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Current,7.4,1.8,3.8,11.0,1220.0,Female,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Ever,26.8,4.0,18.9,34.7,1201.0,Female,High School
-2003,UT,Utah,Cigarette Use,Smoking Status,Frequent,2.1,0.5,1.0,3.1,1220.0,Female,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Current,4.1,0.8,2.6,5.6,2523.0,Overall,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Ever,10.0,1.6,6.9,13.1,2538.0,Overall,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,1.4,0.4,0.7,2.1,2523.0,Overall,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Current,6.4,1.1,4.2,8.6,1295.0,Male,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Ever,13.6,1.7,10.3,16.9,1305.0,Male,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,2.2,0.6,1.1,3.4,1295.0,Male,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.6,0.7,0.3,2.9,1222.0,Female,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Ever,6.0,1.4,3.2,8.8,1229.0,Female,High School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.3,1222.0,Female,High School
 2002,AL,Alabama,Cessation,Want to Quit,,59.7,4.1,51.6,67.7,269.0,Overall,High School
 2002,AL,Alabama,Cessation,Want to Quit,,60.2,3.9,52.5,67.8,140.0,Male,High School
 2002,AL,Alabama,Cessation,Want to Quit,,59.9,5.8,48.4,71.3,127.0,Female,High School
@@ -3694,52 +3419,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,DE,Delaware,Smokeless Tobacco Use,User Status,Current,0.9,0.4,0.1,1.7,1232.0,Female,High School
 2002,DE,Delaware,Smokeless Tobacco Use,User Status,Ever,5.2,0.8,3.7,6.7,1232.0,Female,High School
 2002,DE,Delaware,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.6,1232.0,Female,High School
-2002,FL,Florida,Cessation,Want to Quit,,56.4,1.2,54.1,58.8,1497.0,Overall,High School
-2002,FL,Florida,Cessation,Want to Quit,,53.2,1.8,49.7,56.8,700.0,Male,High School
-2002,FL,Florida,Cessation,Want to Quit,,59.6,1.4,56.9,62.4,797.0,Female,High School
-2002,FL,Florida,Cessation,Quit Attempt,,57.1,1.1,54.9,59.2,1606.0,Overall,High School
-2002,FL,Florida,Cessation,Quit Attempt,,53.2,1.7,49.8,56.6,753.0,Male,High School
-2002,FL,Florida,Cessation,Quit Attempt,,60.9,1.5,58.0,63.8,853.0,Female,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Current,19.0,1.4,16.2,21.7,8846.0,Overall,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Ever,51.8,1.6,48.7,55.0,8849.0,Overall,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Frequent,7.5,1.0,5.6,9.4,8846.0,Overall,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Current,19.0,0.9,17.3,20.7,4239.0,Male,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Ever,52.1,1.3,49.4,54.7,4232.0,Male,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Frequent,7.6,0.8,6.0,9.2,4239.0,Male,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Current,18.9,2.0,14.9,22.9,4607.0,Female,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Ever,51.6,2.0,47.6,55.6,4617.0,Female,High School
-2002,FL,Florida,Cigarette Use,Smoking Status,Frequent,7.3,1.2,5.0,9.6,4607.0,Female,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Current,5.9,0.7,4.6,7.3,8118.0,Overall,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Ever,96.1,0.4,95.3,97.0,7487.0,Overall,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,2.4,0.3,1.8,3.1,8118.0,Overall,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Current,9.8,1.2,7.4,12.2,3707.0,Male,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Ever,96.2,0.4,95.5,96.9,3575.0,Male,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,4.2,0.6,3.1,5.3,3707.0,Male,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Current,2.3,0.3,1.6,2.9,4411.0,Female,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Ever,96.0,0.6,94.9,97.2,3912.0,Female,High School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.3,1.2,4411.0,Female,High School
-2002,GU,Guam,Cessation,Want to Quit,,77.1,2.2,72.7,81.4,371.0,Overall,High School
-2002,GU,Guam,Cessation,Want to Quit,,78.2,3.1,72.1,84.3,206.0,Male,High School
-2002,GU,Guam,Cessation,Want to Quit,,75.6,2.8,70.0,81.1,165.0,Female,High School
-2002,GU,Guam,Cessation,Quit Attempt,,73.4,2.2,69.0,77.7,387.0,Overall,High School
-2002,GU,Guam,Cessation,Quit Attempt,,69.9,3.4,63.2,76.5,217.0,Male,High School
-2002,GU,Guam,Cessation,Quit Attempt,,78.9,3.1,72.7,85.0,169.0,Female,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Current,30.3,1.5,27.4,33.2,1497.0,Overall,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Ever,69.3,1.6,66.1,72.6,1478.0,Overall,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Frequent,15.2,1.2,12.9,17.4,1497.0,Overall,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Current,34.4,1.9,30.6,38.1,731.0,Male,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Ever,71.3,2.0,67.4,75.1,716.0,Male,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Frequent,17.4,1.6,14.2,20.6,731.0,Male,High School
-2002,GU,Guam,Cigarette Use,Smoking Status,Current,26.2,1.9,22.4,29.9,761.0,Female,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Current,6.8,0.8,5.2,8.4,1517.0,Overall,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Ever,16.0,1.1,13.8,18.2,1497.0,Overall,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Frequent,2.2,0.4,1.5,3.0,1517.0,Overall,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Current,10.1,1.4,7.3,12.8,743.0,Male,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Ever,21.3,1.6,18.1,24.4,723.0,Male,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Frequent,3.4,0.6,2.3,4.6,743.0,Male,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Current,3.3,0.7,2.0,4.6,768.0,Female,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Ever,10.7,1.1,8.4,12.9,770.0,Female,High School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Frequent,1.0,0.4,0.3,1.7,768.0,Female,High School
 2002,IL,Illinois,Cessation,Want to Quit,,53.6,2.9,47.9,59.3,344.0,Overall,High School
 2002,IL,Illinois,Cessation,Want to Quit,,47.6,5.2,37.4,57.8,157.0,Male,High School
 2002,IL,Illinois,Cessation,Want to Quit,,58.3,5.6,47.3,69.4,185.0,Female,High School
@@ -3833,54 +3512,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,KY,Kentucky,Smokeless Tobacco Use,User Status,Current,3.2,0.9,1.4,5.0,782.0,Female,High School
 2002,KY,Kentucky,Smokeless Tobacco Use,User Status,Ever,13.8,1.9,10.1,17.6,753.0,Female,High School
 2002,KY,Kentucky,Smokeless Tobacco Use,User Status,Frequent,0.5,0.4,0.0,1.2,782.0,Female,High School
-2002,MD,Maryland,Cessation,Want to Quit,,51.3,0.8,49.7,53.0,6066.0,Overall,High School
-2002,MD,Maryland,Cessation,Want to Quit,,48.7,1.2,46.3,51.2,2775.0,Male,High School
-2002,MD,Maryland,Cessation,Want to Quit,,54.2,1.1,52.1,56.3,3231.0,Female,High School
-2002,MD,Maryland,Cessation,Quit Attempt,,52.4,0.8,50.9,53.9,6733.0,Overall,High School
-2002,MD,Maryland,Cessation,Quit Attempt,,48.2,1.1,45.9,50.4,3026.0,Male,High School
-2002,MD,Maryland,Cessation,Quit Attempt,,56.4,1.0,54.5,58.4,3650.0,Female,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Current,19.3,0.4,18.5,20.0,36794.0,Overall,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Ever,51.2,0.5,50.1,52.2,36218.0,Overall,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Frequent,8.3,0.2,7.8,8.7,36794.0,Overall,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Current,19.3,0.5,18.4,20.3,17349.0,Male,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Ever,51.6,0.6,50.4,52.8,17074.0,Male,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Frequent,8.6,0.3,8.0,9.2,17349.0,Male,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Current,18.9,0.5,17.9,19.8,19197.0,Female,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Ever,50.6,0.7,49.2,52.0,18953.0,Female,High School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Frequent,7.8,0.3,7.2,8.4,19197.0,Female,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Current,5.4,0.2,5.0,5.8,36910.0,Overall,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,13.0,0.3,12.4,13.5,36178.0,Overall,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,1.4,0.1,1.3,1.6,36910.0,Overall,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Current,8.1,0.3,7.5,8.8,17325.0,Male,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,18.3,0.5,17.3,19.3,16837.0,Male,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,2.1,0.2,1.8,2.4,17325.0,Male,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Current,2.5,0.1,2.2,2.7,19317.0,Female,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,7.6,0.3,7.1,8.2,19120.0,Female,High School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.7,0.1,0.5,0.8,19317.0,Female,High School
-2002,MA,Massachusetts,Cessation,Want to Quit,,67.8,3.7,60.6,75.1,218.0,Overall,High School
-2002,MA,Massachusetts,Cessation,Want to Quit,,59.3,5.1,49.2,69.3,106.0,Male,High School
-2002,MA,Massachusetts,Cessation,Want to Quit,,76.1,5.0,66.3,85.8,109.0,Female,High School
-2002,MA,Massachusetts,Cessation,Quit Attempt,,63.3,3.8,56.0,70.7,261.0,Overall,High School
-2002,MA,Massachusetts,Cessation,Quit Attempt,,54.6,5.1,44.6,64.6,128.0,Male,High School
-2002,MA,Massachusetts,Cessation,Quit Attempt,,71.7,4.2,63.5,79.9,132.0,Female,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Current,20.7,1.5,17.8,23.5,1613.0,Overall,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Ever,55.9,2.2,51.6,60.2,1565.0,Overall,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Frequent,9.7,1.0,7.7,11.7,1613.0,Overall,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Current,21.7,1.9,18.0,25.4,813.0,Male,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Ever,55.7,2.5,50.9,60.6,781.0,Male,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Frequent,9.8,1.4,7.2,12.5,813.0,Male,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Current,19.4,1.8,15.9,22.9,794.0,Female,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Ever,56.1,3.2,49.8,62.5,781.0,Female,High School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Frequent,9.5,1.3,6.9,12.1,794.0,Female,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Current,4.3,0.8,2.7,5.9,1642.0,Overall,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Ever,12.8,1.6,9.7,15.9,1611.0,Overall,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Frequent,1.1,0.3,0.5,1.8,1642.0,Overall,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Current,7.0,1.1,4.7,9.2,834.0,Male,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Ever,17.6,2.3,13.1,22.2,814.0,Male,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Frequent,2.2,0.6,1.0,3.4,834.0,Male,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Current,1.1,0.5,0.1,2.2,801.0,Female,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Ever,7.8,1.1,5.7,9.9,794.0,Female,High School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.2,801.0,Female,High School
 2002,MS,Mississippi,Cessation,Want to Quit,,59.9,1.8,56.3,63.5,407.0,Overall,High School
 2002,MS,Mississippi,Cessation,Want to Quit,,57.2,3.6,50.1,64.2,227.0,Male,High School
 2002,MS,Mississippi,Cessation,Want to Quit,,64.6,3.5,57.6,71.5,177.0,Female,High School
@@ -3902,7 +3533,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,3.3,0.7,2.0,4.7,1209.0,Female,High School
 2002,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,10.2,1.1,8.1,12.3,1174.0,Female,High School
 2002,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.2,1.1,1209.0,Female,High School
-2002,US,National (States and DC),Cessation,Quit Attempt,,53.3,1.4,50.6,56.1,2581.0,Overall,High School
 2002,NE,Nebraska,Cessation,Want to Quit,,63.7,3.3,57.1,70.2,578.0,Overall,High School
 2002,NE,Nebraska,Cessation,Want to Quit,,58.0,4.3,49.6,66.3,263.0,Male,High School
 2002,NE,Nebraska,Cessation,Want to Quit,,69.2,3.6,62.1,76.4,315.0,Female,High School
@@ -3927,27 +3557,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,NE,Nebraska,Smokeless Tobacco Use,User Status,Current,1.5,0.4,0.7,2.4,1409.0,Female,High School
 2002,NE,Nebraska,Smokeless Tobacco Use,User Status,Ever,11.9,1.0,10.0,13.8,1365.0,Female,High School
 2002,NE,Nebraska,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.4,1409.0,Female,High School
-2002,NY,New York,Cessation,Want to Quit,,60.9,3.9,53.3,68.6,535.0,Overall,High School
-2002,NY,New York,Cessation,Want to Quit,,62.3,3.7,55.1,69.5,262.0,Male,High School
-2002,NY,New York,Cessation,Want to Quit,,59.5,4.8,50.1,69.0,271.0,Female,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Current,21.7,1.3,19.2,24.3,3585.0,Overall,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Ever,55.8,1.6,52.7,58.9,3621.0,Overall,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Frequent,11.2,1.2,8.9,13.6,3585.0,Overall,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Current,21.6,1.4,18.8,24.5,1696.0,Male,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Ever,53.5,1.8,50.0,57.1,1709.0,Male,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Frequent,10.6,1.3,8.0,13.1,1696.0,Male,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Current,21.8,1.9,18.1,25.5,1879.0,Female,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Ever,57.9,2.3,53.5,62.3,1902.0,Female,High School
-2002,NY,New York,Cigarette Use,Smoking Status,Frequent,11.9,1.3,9.3,14.5,1879.0,Female,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Current,7.4,1.9,3.6,11.2,3501.0,Overall,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Ever,13.4,3.0,7.4,19.4,3521.0,Overall,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Frequent,2.2,0.7,0.9,3.5,3501.0,Overall,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Current,12.6,3.0,6.7,18.6,1651.0,Male,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Ever,23.0,5.2,12.8,33.3,1653.0,Male,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Frequent,3.0,0.9,1.2,4.8,1651.0,Male,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Current,2.3,1.0,0.4,4.1,1841.0,Female,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Ever,4.1,1.1,1.9,6.2,1859.0,Female,High School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Frequent,1.4,0.9,0.0,3.1,1841.0,Female,High School
 2002,NC,North Carolina,Cessation,Want to Quit,,49.5,1.9,45.8,53.1,1132.0,Overall,High School
 2002,NC,North Carolina,Cessation,Want to Quit,,50.1,3.3,43.7,56.6,590.0,Male,High School
 2002,NC,North Carolina,Cessation,Want to Quit,,49.0,2.4,44.3,53.6,536.0,Female,High School
@@ -4092,30 +3701,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,WI,Wisconsin,Smokeless Tobacco Use,User Status,Current,1.3,0.4,0.5,2.0,712.0,Female,High School
 2002,WI,Wisconsin,Smokeless Tobacco Use,User Status,Ever,10.1,1.2,7.7,12.4,707.0,Female,High School
 2002,WI,Wisconsin,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,712.0,Female,High School
-2001,FL,Florida,Cessation,Want to Quit,,55.5,1.8,52.0,59.0,703.0,Overall,High School
-2001,FL,Florida,Cessation,Want to Quit,,52.8,2.9,47.2,58.4,329.0,Male,High School
-2001,FL,Florida,Cessation,Want to Quit,,58.2,3.4,51.5,64.9,374.0,Female,High School
-2001,FL,Florida,Cessation,Quit Attempt,,56.6,1.7,53.3,59.9,763.0,Overall,High School
-2001,FL,Florida,Cessation,Quit Attempt,,52.6,2.6,47.6,57.6,366.0,Male,High School
-2001,FL,Florida,Cessation,Quit Attempt,,60.8,3.0,54.9,66.7,397.0,Female,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Current,19.0,1.1,16.9,21.1,4171.0,Overall,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Ever,53.7,1.5,50.8,56.6,4261.0,Overall,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Frequent,8.5,0.6,7.4,9.6,4171.0,Overall,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Current,19.1,1.0,17.1,21.1,1978.0,Male,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Ever,53.6,1.7,50.3,56.9,2030.0,Male,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Frequent,8.3,0.7,7.0,9.6,1978.0,Male,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Current,19.0,1.6,15.9,22.1,2193.0,Female,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Ever,53.7,1.8,50.2,57.2,2231.0,Female,High School
-2001,FL,Florida,Cigarette Use,Smoking Status,Frequent,8.7,0.9,7.0,10.4,2193.0,Female,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Current,5.0,0.5,4.0,6.0,4293.0,Overall,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Ever,10.7,0.9,8.9,12.5,4300.0,Overall,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,1.7,0.3,1.1,2.3,4293.0,Overall,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Current,8.5,0.9,6.7,10.3,2046.0,Male,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Ever,17.4,1.5,14.4,20.4,2052.0,Male,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,3.1,0.6,2.0,4.2,2046.0,Male,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Current,1.4,0.2,1.0,1.8,2247.0,Female,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Ever,3.9,0.5,3.0,4.8,2248.0,Female,High School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.5,2247.0,Female,High School
 2001,GA,Georgia,Cessation,Quit Attempt,,53.2,2.3,48.7,57.8,616.0,Overall,High School
 2001,GA,Georgia,Cessation,Quit Attempt,,50.3,2.7,44.9,55.6,357.0,Male,High School
 2001,GA,Georgia,Cessation,Quit Attempt,,57.7,3.7,50.4,65.0,258.0,Female,High School
@@ -4137,30 +3722,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2001,GA,Georgia,Smokeless Tobacco Use,User Status,Current,2.2,0.5,1.3,3.1,1451.0,Female,High School
 2001,GA,Georgia,Smokeless Tobacco Use,User Status,Ever,10.1,1.2,7.8,12.3,1417.0,Female,High School
 2001,GA,Georgia,Smokeless Tobacco Use,User Status,Frequent,0.6,0.2,0.1,1.0,1451.0,Female,High School
-2001,MI,Michigan,Cessation,Want to Quit,,57.8,2.1,53.6,62.0,714.0,Overall,High School
-2001,MI,Michigan,Cessation,Want to Quit,,55.5,2.5,50.7,60.3,340.0,Male,High School
-2001,MI,Michigan,Cessation,Want to Quit,,59.9,3.3,53.4,66.5,373.0,Female,High School
-2001,MI,Michigan,Cessation,Quit Attempt,,57.0,1.6,53.8,60.2,798.0,Overall,High School
-2001,MI,Michigan,Cessation,Quit Attempt,,52.8,2.9,47.1,58.4,375.0,Male,High School
-2001,MI,Michigan,Cessation,Quit Attempt,,60.7,2.9,55.1,66.3,421.0,Female,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Current,27.6,1.3,25.0,30.2,3234.0,Overall,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Ever,62.2,1.5,59.2,65.2,3215.0,Overall,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Frequent,13.9,0.7,12.5,15.3,3234.0,Overall,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Current,25.8,1.5,22.8,28.8,1632.0,Male,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Ever,60.4,1.8,56.9,63.8,1623.0,Male,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Frequent,12.5,0.8,10.9,14.0,1632.0,Male,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Current,29.5,1.6,26.4,32.5,1593.0,Female,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Ever,64.0,1.7,60.5,67.4,1584.0,Female,High School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Frequent,15.4,1.2,13.1,17.7,1593.0,Female,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Current,6.7,0.7,5.3,8.2,3265.0,Overall,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,20.4,1.3,17.8,23.0,3199.0,Overall,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,1.8,0.3,1.2,2.4,3265.0,Overall,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Current,11.2,1.5,8.4,14.1,1649.0,Male,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,29.3,2.2,24.9,33.7,1607.0,Male,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,3.1,0.6,1.9,4.3,1649.0,Male,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Current,2.0,0.5,1.1,2.9,1605.0,Female,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,11.2,0.8,9.6,12.8,1586.0,Female,High School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.0,0.5,1605.0,Female,High School
 2001,NH,New Hampshire,Cessation,Want to Quit,,57.2,3.4,50.5,64.0,264.0,Overall,High School
 2001,NH,New Hampshire,Cessation,Want to Quit,,52.1,5.2,41.8,62.3,131.0,Male,High School
 2001,NH,New Hampshire,Cessation,Want to Quit,,63.2,4.6,54.1,72.3,131.0,Female,High School
@@ -4233,30 +3794,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2001,PA,Pennsylvania,Smokeless Tobacco Use,User Status,Current,1.3,0.2,0.8,1.8,4212.0,Female,High School
 2001,PA,Pennsylvania,Smokeless Tobacco Use,User Status,Ever,9.2,1.1,7.1,11.2,4192.0,Female,High School
 2001,PA,Pennsylvania,Smokeless Tobacco Use,User Status,Frequent,0.4,0.1,0.1,0.6,4212.0,Female,High School
-2001,RI,Rhode Island,Cessation,Want to Quit,,58.6,2.6,53.6,63.6,314.0,Overall,High School
-2001,RI,Rhode Island,Cessation,Want to Quit,,53.6,3.2,47.4,59.8,160.0,Male,High School
-2001,RI,Rhode Island,Cessation,Want to Quit,,64.4,4.7,55.3,73.6,153.0,Female,High School
-2001,RI,Rhode Island,Cessation,Quit Attempt,,57.5,2.8,51.9,63.1,338.0,Overall,High School
-2001,RI,Rhode Island,Cessation,Quit Attempt,,56.0,3.3,49.5,62.4,166.0,Male,High School
-2001,RI,Rhode Island,Cessation,Quit Attempt,,59.4,4.7,50.1,68.6,171.0,Female,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Current,26.0,1.9,22.4,29.7,1511.0,Overall,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,59.9,1.5,56.9,62.9,1493.0,Overall,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,13.2,1.3,10.7,15.8,1511.0,Overall,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Current,26.9,1.9,23.2,30.6,722.0,Male,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,58.9,1.4,56.1,61.6,711.0,Male,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,13.6,1.5,10.7,16.5,722.0,Male,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Current,25.2,2.7,19.9,30.4,785.0,Female,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,61.0,2.5,56.2,65.9,778.0,Female,High School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,12.8,1.9,9.1,16.5,785.0,Female,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,3.8,0.7,2.5,5.1,1531.0,Overall,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,11.2,0.9,9.4,12.9,1527.0,Overall,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,1.1,0.3,0.5,1.8,1531.0,Overall,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,6.3,1.1,4.1,8.4,738.0,Male,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,17.2,1.8,13.7,20.7,733.0,Male,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,1.8,0.5,0.8,2.8,738.0,Male,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.1,0.5,0.1,2.0,790.0,Female,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,5.0,0.7,3.5,6.4,792.0,Female,High School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.4,0.3,0.0,0.9,790.0,Female,High School
 2000,AL,Alabama,Cessation,Want to Quit,,61.8,4.0,54.0,69.6,346.0,Overall,High School
 2000,AL,Alabama,Cessation,Want to Quit,,60.9,4.1,52.8,68.9,173.0,Male,High School
 2000,AL,Alabama,Cessation,Want to Quit,,63.9,5.2,53.7,74.2,172.0,Female,High School
@@ -4305,54 +3842,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,AR,Arkansas,Smokeless Tobacco Use,User Status,Current,2.2,0.7,0.8,3.6,677.0,Female,High School
 2000,AR,Arkansas,Smokeless Tobacco Use,User Status,Ever,12.5,2.0,8.5,16.4,672.0,Female,High School
 2000,AR,Arkansas,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.4,677.0,Female,High School
-2000,CA,California,Cessation,Want to Quit,,59.2,3.5,52.3,66.0,510.0,Overall,High School
-2000,CA,California,Cessation,Want to Quit,,50.2,4.7,41.0,59.5,286.0,Male,High School
-2000,CA,California,Cessation,Want to Quit,,69.2,3.2,62.9,75.5,224.0,Female,High School
-2000,CA,California,Cessation,Quit Attempt,,71.6,2.2,67.4,75.9,546.0,Overall,High School
-2000,CA,California,Cessation,Quit Attempt,,68.0,2.5,63.2,72.8,310.0,Male,High School
-2000,CA,California,Cessation,Quit Attempt,,76.0,2.9,70.2,81.8,236.0,Female,High School
-2000,CA,California,Cigarette Use,Smoking Status,Current,21.6,2.0,17.6,25.6,2937.0,Overall,High School
-2000,CA,California,Cigarette Use,Smoking Status,Ever,60.5,2.2,56.2,64.8,2995.0,Overall,High School
-2000,CA,California,Cigarette Use,Smoking Status,Frequent,7.3,1.6,4.3,10.4,2937.0,Overall,High School
-2000,CA,California,Cigarette Use,Smoking Status,Current,22.7,1.7,19.3,26.0,1513.0,Male,High School
-2000,CA,California,Cigarette Use,Smoking Status,Ever,61.9,2.4,57.3,66.5,1554.0,Male,High School
-2000,CA,California,Cigarette Use,Smoking Status,Frequent,6.9,1.0,4.9,9.0,1513.0,Male,High School
-2000,CA,California,Cigarette Use,Smoking Status,Current,20.4,2.6,15.4,25.4,1424.0,Female,High School
-2000,CA,California,Cigarette Use,Smoking Status,Ever,58.9,2.2,54.6,63.2,1441.0,Female,High School
-2000,CA,California,Cigarette Use,Smoking Status,Frequent,7.8,2.2,3.5,12.0,1424.0,Female,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Current,3.3,0.7,1.9,4.7,2962.0,Overall,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Ever,11.8,2.6,6.8,16.8,2972.0,Overall,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.9,0.3,0.3,1.6,2962.0,Overall,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Current,5.1,1.4,2.4,7.7,1529.0,Male,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Ever,17.3,4.0,9.5,25.1,1538.0,Male,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Frequent,1.5,0.6,0.4,2.7,1529.0,Male,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Current,1.4,0.3,0.8,2.1,1433.0,Female,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Ever,5.9,1.4,3.2,8.5,1434.0,Female,High School
-2000,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.5,1433.0,Female,High School
-2000,CO,Colorado,Cessation,Want to Quit,,60.6,4.3,52.2,69.0,301.0,Overall,High School
-2000,CO,Colorado,Cessation,Want to Quit,,59.4,4.7,50.2,68.6,135.0,Male,High School
-2000,CO,Colorado,Cessation,Want to Quit,,61.5,5.2,51.3,71.6,165.0,Female,High School
-2000,CO,Colorado,Cessation,Quit Attempt,,58.7,3.0,52.7,64.6,345.0,Overall,High School
-2000,CO,Colorado,Cessation,Quit Attempt,,52.9,3.4,46.1,59.6,161.0,Male,High School
-2000,CO,Colorado,Cessation,Quit Attempt,,63.9,4.1,55.9,72.0,183.0,Female,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Current,25.3,2.7,20.0,30.7,1489.0,Overall,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Ever,61.6,2.6,56.4,66.7,1465.0,Overall,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Frequent,11.1,1.7,7.8,14.5,1489.0,Overall,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Current,23.9,3.0,18.0,29.7,736.0,Male,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Ever,61.4,3.0,55.5,67.3,718.0,Male,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Frequent,11.2,1.8,7.6,14.8,736.0,Male,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Current,26.9,3.1,20.8,33.0,751.0,Female,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Ever,61.9,3.1,55.7,68.0,745.0,Female,High School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Frequent,11.0,2.0,7.0,15.0,751.0,Female,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Current,9.0,1.5,6.1,11.8,1530.0,Overall,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Ever,23.5,1.8,20.0,26.9,1518.0,Overall,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Frequent,2.6,0.5,1.6,3.6,1530.0,Overall,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Current,14.3,2.2,10.0,18.7,757.0,Male,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Ever,33.0,2.6,28.0,38.1,747.0,Male,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Frequent,4.5,1.0,2.5,6.5,757.0,Male,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Current,3.1,0.7,1.8,4.5,769.0,Female,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Ever,13.5,1.7,10.3,16.8,768.0,Female,High School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Frequent,0.5,0.3,0.0,1.1,769.0,Female,High School
 2000,CT,Connecticut,Cessation,Want to Quit,,56.4,3.5,49.5,63.3,373.0,Overall,High School
 2000,CT,Connecticut,Cessation,Want to Quit,,60.1,4.5,51.2,68.9,170.0,Male,High School
 2000,CT,Connecticut,Cessation,Want to Quit,,53.0,5.1,43.0,63.0,202.0,Female,High School
@@ -4401,30 +3890,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,DE,Delaware,Smokeless Tobacco Use,User Status,Current,0.5,0.2,0.1,0.9,1859.0,Female,High School
 2000,DE,Delaware,Smokeless Tobacco Use,User Status,Ever,3.9,0.5,2.9,4.9,1861.0,Female,High School
 2000,DE,Delaware,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.0,0.5,1859.0,Female,High School
-2000,DC,District of Columbia,Cessation,Want to Quit,,61.7,5.1,51.7,71.8,122.0,Overall,High School
-2000,DC,District of Columbia,Cessation,Want to Quit,,59.7,6.2,47.6,71.8,76.0,Male,High School
-2000,DC,District of Columbia,Cessation,Want to Quit,,,,,,,Female,High School
-2000,DC,District of Columbia,Cessation,Quit Attempt,,55.9,4.5,47.2,64.7,142.0,Overall,High School
-2000,DC,District of Columbia,Cessation,Quit Attempt,,57.6,4.3,49.2,65.9,82.0,Male,High School
-2000,DC,District of Columbia,Cessation,Quit Attempt,,53.5,7.1,39.7,67.4,60.0,Female,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Current,14.7,1.3,12.1,17.2,1294.0,Overall,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Ever,58.1,1.6,55.0,61.2,1234.0,Overall,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Frequent,3.5,0.8,1.9,5.0,1294.0,Overall,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Current,16.9,1.8,13.3,20.4,637.0,Male,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Ever,56.6,2.4,51.9,61.3,607.0,Male,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Frequent,6.0,1.5,3.1,9.0,637.0,Male,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Current,12.3,1.4,9.7,15.0,649.0,Female,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Ever,59.7,2.2,55.3,64.0,625.0,Female,High School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Frequent,0.9,0.4,0.2,1.6,649.0,Female,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Current,3.3,0.9,1.5,5.0,1316.0,Overall,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Ever,9.9,1.0,7.9,11.9,1300.0,Overall,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.1,1.4,1316.0,Overall,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Current,4.1,1.4,1.4,6.9,647.0,Male,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Ever,12.7,1.5,9.7,15.7,636.0,Male,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Frequent,0.7,0.5,0.0,1.6,647.0,Male,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Current,1.6,0.5,0.6,2.6,658.0,Female,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Ever,7.2,1.2,4.9,9.5,657.0,Female,High School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Frequent,0.4,0.3,0.0,1.1,658.0,Female,High School
 2000,HI,Hawaii,Cessation,Want to Quit,,71.8,3.3,65.4,78.2,295.0,Overall,High School
 2000,HI,Hawaii,Cessation,Want to Quit,,71.2,6.0,59.3,83.0,115.0,Male,High School
 2000,HI,Hawaii,Cessation,Want to Quit,,72.3,4.1,64.4,80.3,180.0,Female,High School
@@ -4545,30 +4010,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,KY,Kentucky,Smokeless Tobacco Use,User Status,Current,2.2,0.6,0.9,3.4,607.0,Female,High School
 2000,KY,Kentucky,Smokeless Tobacco Use,User Status,Ever,14.5,2.0,10.6,18.5,602.0,Female,High School
 2000,KY,Kentucky,Smokeless Tobacco Use,User Status,Frequent,0.7,0.4,0.0,1.5,607.0,Female,High School
-2000,MD,Maryland,Cessation,Want to Quit,,52.9,1.0,51.1,54.8,7032.0,Overall,High School
-2000,MD,Maryland,Cessation,Want to Quit,,51.8,1.5,48.8,54.8,3261.0,Male,High School
-2000,MD,Maryland,Cessation,Want to Quit,,54.1,1.2,51.8,56.5,3733.0,Female,High School
-2000,MD,Maryland,Cessation,Quit Attempt,,55.7,0.8,54.1,57.3,7916.0,Overall,High School
-2000,MD,Maryland,Cessation,Quit Attempt,,52.4,1.2,50.0,54.7,3660.0,Male,High School
-2000,MD,Maryland,Cessation,Quit Attempt,,59.0,1.2,56.7,61.3,4211.0,Female,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Current,23.7,0.5,22.7,24.6,32112.0,Overall,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Ever,57.9,0.6,56.8,59.0,31169.0,Overall,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Frequent,10.8,0.3,10.1,11.5,32112.0,Overall,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Current,23.3,0.6,22.1,24.5,15382.0,Male,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Ever,57.8,0.7,56.4,59.2,14845.0,Male,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Frequent,10.9,0.4,10.1,11.8,15382.0,Male,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Current,23.8,0.7,22.5,25.1,16548.0,Female,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Ever,58.0,0.7,56.6,59.5,16193.0,Female,High School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Frequent,10.6,0.4,9.7,11.4,16548.0,Female,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Current,5.0,0.2,4.6,5.4,32937.0,Overall,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,15.2,0.3,14.6,15.9,32136.0,Overall,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,1.3,0.1,1.1,1.5,32937.0,Overall,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Current,7.8,0.4,7.1,8.5,15800.0,Male,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,21.1,0.5,20.2,22.0,15266.0,Male,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,2.1,0.2,1.7,2.5,15800.0,Male,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Current,1.9,0.1,1.7,2.2,16935.0,Female,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,9.3,0.4,8.5,10.0,16710.0,Female,High School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.5,0.1,0.3,0.6,16935.0,Female,High School
 2000,MN,Minnesota,Cessation,Want to Quit,,61.0,1.3,58.4,63.6,1968.0,Overall,High School
 2000,MN,Minnesota,Cessation,Want to Quit,,57.9,2.4,53.2,62.7,904.0,Male,High School
 2000,MN,Minnesota,Cessation,Want to Quit,,63.9,1.7,60.5,67.2,1057.0,Female,High School
@@ -4641,30 +4082,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,NE,Nebraska,Smokeless Tobacco Use,User Status,Current,2.9,0.5,1.9,3.9,1666.0,Female,High School
 2000,NE,Nebraska,Smokeless Tobacco Use,User Status,Ever,13.7,1.0,11.8,15.6,1649.0,Female,High School
 2000,NE,Nebraska,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.5,1666.0,Female,High School
-2000,NY,New York,Cessation,Want to Quit,,63.8,2.7,58.5,69.1,488.0,Overall,High School
-2000,NY,New York,Cessation,Want to Quit,,61.2,3.8,53.7,68.7,278.0,Male,High School
-2000,NY,New York,Cessation,Want to Quit,,66.7,3.0,60.9,72.6,208.0,Female,High School
-2000,NY,New York,Cessation,Quit Attempt,,76.3,1.9,72.6,80.1,522.0,Overall,High School
-2000,NY,New York,Cessation,Quit Attempt,,75.1,3.1,69.0,81.2,292.0,Male,High School
-2000,NY,New York,Cessation,Quit Attempt,,77.6,3.0,71.7,83.4,228.0,Female,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Current,26.8,3.0,20.9,32.6,2035.0,Overall,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Ever,62.9,2.5,58.0,67.7,2081.0,Overall,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Frequent,14.2,2.2,9.9,18.5,2035.0,Overall,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Current,24.8,2.3,20.2,29.4,1157.0,Male,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Ever,60.7,2.6,55.6,65.8,1190.0,Male,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Frequent,13.7,1.6,10.6,16.7,1157.0,Male,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Current,29.2,4.8,19.8,38.7,875.0,Female,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Ever,65.8,3.7,58.4,73.1,888.0,Female,High School
-2000,NY,New York,Cigarette Use,Smoking Status,Frequent,14.9,3.7,7.7,22.2,875.0,Female,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Current,6.0,1.5,3.1,8.9,2050.0,Overall,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Ever,14.5,2.5,9.5,19.5,2062.0,Overall,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Frequent,1.7,0.7,0.4,3.0,2050.0,Overall,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Current,9.4,2.1,5.3,13.6,1156.0,Male,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Ever,22.1,3.4,15.3,28.8,1163.0,Male,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Frequent,2.7,1.0,0.9,4.6,1156.0,Male,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Current,1.5,0.5,0.5,2.6,891.0,Female,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Ever,4.6,0.6,3.4,5.8,896.0,Female,High School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Frequent,0.4,0.4,0.0,1.2,891.0,Female,High School
 2000,OH,Ohio,Cessation,Want to Quit,,59.7,2.5,54.9,64.6,331.0,Overall,High School
 2000,OH,Ohio,Cessation,Want to Quit,,53.6,4.2,45.4,61.7,167.0,Male,High School
 2000,OH,Ohio,Cessation,Want to Quit,,66.5,3.2,60.2,72.8,163.0,Female,High School
@@ -4737,54 +4154,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,TN,Tennessee,Smokeless Tobacco Use,User Status,Current,2.4,0.4,1.7,3.1,5043.0,Female,High School
 2000,TN,Tennessee,Smokeless Tobacco Use,User Status,Ever,13.2,1.0,11.2,15.3,5005.0,Female,High School
 2000,TN,Tennessee,Smokeless Tobacco Use,User Status,Frequent,0.4,0.1,0.2,0.6,5043.0,Female,High School
-2000,TX,Texas,Cessation,Want to Quit,,54.7,2.6,49.6,59.8,567.0,Overall,High School
-2000,TX,Texas,Cessation,Want to Quit,,53.8,3.3,47.3,60.4,345.0,Male,High School
-2000,TX,Texas,Cessation,Want to Quit,,56.0,3.3,49.6,62.5,222.0,Female,High School
-2000,TX,Texas,Cessation,Quit Attempt,,71.6,2.6,66.6,76.7,593.0,Overall,High School
-2000,TX,Texas,Cessation,Quit Attempt,,69.2,2.8,63.7,74.7,362.0,Male,High School
-2000,TX,Texas,Cessation,Quit Attempt,,75.3,3.7,68.0,82.6,231.0,Female,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Current,28.1,3.0,22.3,34.0,2217.0,Overall,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Ever,64.7,2.3,60.1,69.3,2272.0,Overall,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Frequent,11.3,2.2,7.0,15.7,2217.0,Overall,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Current,32.0,3.6,25.0,39.1,1138.0,Male,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Ever,68.7,3.0,62.8,74.6,1180.0,Male,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Frequent,13.0,3.0,7.0,18.9,1138.0,Male,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Current,23.6,3.0,17.7,29.5,1079.0,Female,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Ever,60.0,2.3,55.4,64.6,1092.0,Female,High School
-2000,TX,Texas,Cigarette Use,Smoking Status,Frequent,9.5,1.9,5.7,13.3,1079.0,Female,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Current,8.3,1.8,4.7,11.9,2260.0,Overall,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Ever,19.8,3.1,13.6,25.9,2271.0,Overall,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Frequent,2.8,0.9,1.2,4.5,2260.0,Overall,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Current,14.1,3.8,6.6,21.6,1164.0,Male,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Ever,31.3,5.7,20.1,42.5,1175.0,Male,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Frequent,5.2,1.8,1.7,8.7,1164.0,Male,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Current,1.6,0.5,0.7,2.5,1096.0,Female,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Ever,6.3,1.3,3.8,8.8,1096.0,Female,High School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.2,1096.0,Female,High School
-2000,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Overall,High School
-2000,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Male,High School
-2000,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Female,High School
-2000,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Overall,High School
-2000,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Male,High School
-2000,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Female,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,4.0,0.7,2.6,5.3,1134.0,Overall,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,33.9,2.0,30.0,37.8,1112.0,Overall,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,1.2,0.3,0.6,1.8,1134.0,Overall,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,4.7,1.2,2.2,7.1,499.0,Male,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,34.9,2.9,29.3,40.6,492.0,Male,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,1.4,0.5,0.4,2.3,499.0,Male,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,3.2,0.7,1.8,4.6,631.0,Female,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,32.6,2.3,28.1,37.2,617.0,Female,High School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,1.0,0.4,0.2,1.9,631.0,Female,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,0.9,0.3,0.3,1.4,1166.0,Overall,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,8.0,0.9,6.4,9.7,1143.0,Overall,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,1166.0,Overall,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,1.5,0.5,0.5,2.5,516.0,Male,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,10.2,1.5,7.2,13.1,505.0,Male,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.4,0.3,0.0,1.0,516.0,Male,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,0.3,0.2,0.0,0.8,645.0,Female,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,6.3,0.9,4.5,8.2,634.0,Female,High School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,645.0,Female,High School
 2000,WV,West Virginia,Cessation,Want to Quit,,56.1,2.6,50.9,61.2,488.0,Overall,High School
 2000,WV,West Virginia,Cessation,Want to Quit,,53.5,4.3,45.0,61.9,214.0,Male,High School
 2000,WV,West Virginia,Cessation,Want to Quit,,58.1,2.9,52.4,63.8,268.0,Female,High School
@@ -4962,7 +4331,3 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 1999,TN,Tennessee,Smokeless Tobacco Use,User Status,Current,3.7,1.0,1.8,5.6,712.0,Female,High School
 1999,TN,Tennessee,Smokeless Tobacco Use,User Status,Ever,18.2,3.0,12.4,24.0,698.0,Female,High School
 1999,TN,Tennessee,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.3,712.0,Female,High School
-2017,US,National (States and DC),Cessation,Quit Attempt,,61.1,3.2,54.8,67.4,628.0,Overall,High School
-2017,US,National (States and DC),Cessation,Want to Quit,,64.8,2.8,59.2,70.3,579.0,Overall,High School
-2016,US,National (States and DC),Cessation,Quit Attempt,,58.4,2.6,53.3,63.5,638.0,Overall,High School
-2016,US,National (States and DC),Cessation,Want to Quit,,62.6,3.2,56.3,68.9,598.0,Overall,High School

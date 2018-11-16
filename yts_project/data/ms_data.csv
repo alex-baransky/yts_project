@@ -588,8 +588,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2015,MO,Missouri,Smokeless Tobacco Use,User Status,Current,0.3,0.1,0.1,0.5,844.0,Female,Middle School
 2015,MO,Missouri,Smokeless Tobacco Use,User Status,Ever,2.6,0.8,1.0,4.2,844.0,Female,Middle School
 2015,MO,Missouri,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,844.0,Female,Middle School
-2015,US,National (States and DC),Cessation,Want to Quit,,65.0,4.2,56.7,73.3,156.0,Overall,Middle School
-2015,US,National (States and DC),Cessation,Quit Attempt,,77.0,3.1,71.0,83.0,161.0,Overall,Middle School
 2015,NJ,New Jersey,Cessation,Want to Quit,,,,,,,Overall,Middle School
 2015,NJ,New Jersey,Cessation,Want to Quit,,,,,,,Male,Middle School
 2015,NJ,New Jersey,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -803,8 +801,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2014,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,1.3,0.5,0.4,2.2,712.0,Female,Middle School
 2014,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,4.1,0.9,2.3,5.8,709.0,Female,Middle School
 2014,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,712.0,Female,Middle School
-2014,US,National (States and DC),Cessation,Want to Quit,,61.4,6.3,49.0,73.8,206.0,Overall,Middle School
-2014,US,National (States and DC),Cessation,Quit Attempt,,70.1,3.4,63.4,76.8,208.0,Overall,Middle School
 2014,NJ,New Jersey,Cessation,Want to Quit,,,,,,,Overall,Middle School
 2014,NJ,New Jersey,Cessation,Want to Quit,,,,,,,Male,Middle School
 2014,NJ,New Jersey,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -1110,8 +1106,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2013,MO,Missouri,Smokeless Tobacco Use,User Status,Current,1.1,0.3,0.6,1.6,864.0,Female,Middle School
 2013,MO,Missouri,Smokeless Tobacco Use,User Status,Ever,2.7,0.6,1.5,3.9,861.0,Female,Middle School
 2013,MO,Missouri,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.6,864.0,Female,Middle School
-2013,US,National (States and DC),Cessation,Want to Quit,,50.7,4.7,41.4,60.0,188.0,Overall,Middle School
-2013,US,National (States and DC),Cessation,Quit Attempt,,64.1,5.2,53.9,74.2,191.0,Overall,Middle School
 2013,NC,North Carolina,Cessation,Want to Quit,,35.7,4.5,26.9,44.5,88.0,Overall,Middle School
 2013,NC,North Carolina,Cessation,Want to Quit,,,,,,,Male,Middle School
 2013,NC,North Carolina,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -1322,8 +1316,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2012,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,5.0,1.0,3.0,7.0,867.0,Female,Middle School
 2012,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,17.9,2.0,13.9,21.9,809.0,Female,Middle School
 2012,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,1.0,0.4,0.3,1.7,867.0,Female,Middle School
-2012,US,National (States and DC),Cessation,Want to Quit,,64.9,2.8,59.3,70.4,342.0,Overall,Middle School
-2012,US,National (States and DC),Cessation,Quit Attempt,,62.8,3.1,56.8,68.8,343.0,Overall,Middle School
 2012,OH,Ohio,Cessation,Want to Quit,,,,,,,Overall,Middle School
 2012,OH,Ohio,Cessation,Want to Quit,,,,,,,Male,Middle School
 2012,OH,Ohio,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -1510,7 +1502,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2011,MO,Missouri,Smokeless Tobacco Use,User Status,Current,2.0,0.6,0.9,3.1,897.0,Female,Middle School
 2011,MO,Missouri,Smokeless Tobacco Use,User Status,Ever,4.8,1.2,2.5,7.1,897.0,Female,Middle School
 2011,MO,Missouri,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,897.0,Female,Middle School
-2011,US,National (States and DC),Cessation,Quit Attempt,,66.3,3.4,59.6,73.0,364.0,Overall,Middle School
 2011,NC,North Carolina,Cigarette Use,Smoking Status,Current,4.2,0.5,3.3,5.1,5248.0,Overall,Middle School
 2011,NC,North Carolina,Cigarette Use,Smoking Status,Ever,16.9,1.0,15.0,18.8,5071.0,Overall,Middle School
 2011,NC,North Carolina,Cigarette Use,Smoking Status,Frequent,0.6,0.2,0.3,0.9,5248.0,Overall,Middle School
@@ -2054,7 +2045,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2009,MO,Missouri,Smokeless Tobacco Use,User Status,Current,1.7,0.5,0.8,2.6,788.0,Female,Middle School
 2009,MO,Missouri,Smokeless Tobacco Use,User Status,Ever,4.8,0.9,3.1,6.5,784.0,Female,Middle School
 2009,MO,Missouri,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.6,788.0,Female,Middle School
-2009,US,National (States and DC),Cessation,Quit Attempt,,63.2,4.9,53.6,72.7,467.0,Overall,Middle School
 2009,NC,North Carolina,Cessation,Want to Quit,,51.1,4.4,42.5,59.7,129.0,Overall,Middle School
 2009,NC,North Carolina,Cessation,Want to Quit,,51.0,6.7,37.9,64.1,68.0,Male,Middle School
 2009,NC,North Carolina,Cessation,Want to Quit,,52.6,7.2,38.5,66.7,60.0,Female,Middle School
@@ -2169,27 +2159,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2009,SD,South Dakota,Smokeless Tobacco Use,User Status,Current,2.7,0.9,0.9,4.5,1634.0,Female,Middle School
 2009,SD,South Dakota,Smokeless Tobacco Use,User Status,Ever,5.5,1.5,2.6,8.4,1638.0,Female,Middle School
 2009,SD,South Dakota,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.6,1634.0,Female,Middle School
-2009,VA,Virginia,Cessation,Want to Quit,,,,,,,Overall,Middle School
-2009,VA,Virginia,Cessation,Want to Quit,,,,,,,Male,Middle School
-2009,VA,Virginia,Cessation,Want to Quit,,,,,,,Female,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Current,3.6,0.7,2.3,4.9,2009.0,Overall,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Ever,16.6,1.9,12.9,20.3,1945.0,Overall,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Frequent,0.6,0.2,0.2,1.0,2009.0,Overall,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Current,3.8,0.8,2.2,5.4,979.0,Male,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Ever,17.8,2.0,13.9,21.7,947.0,Male,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Frequent,0.5,0.2,0.2,0.8,979.0,Male,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Current,3.4,0.9,1.7,5.1,1020.0,Female,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Ever,15.3,2.5,10.4,20.2,989.0,Female,Middle School
-2009,VA,Virginia,Cigarette Use,Smoking Status,Frequent,0.8,0.4,0.0,1.6,1020.0,Female,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Current,2.4,0.4,1.6,3.2,2008.0,Overall,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Ever,8.5,1.0,6.5,10.5,2024.0,Overall,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.6,2008.0,Overall,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Current,3.3,0.8,1.8,4.8,978.0,Male,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Ever,10.9,1.5,7.9,13.9,984.0,Male,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Frequent,0.7,0.3,0.1,1.3,978.0,Male,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Current,1.5,0.4,0.8,2.2,1021.0,Female,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Ever,5.9,0.8,4.3,7.5,1030.0,Female,Middle School
-2009,VA,Virginia,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,1021.0,Female,Middle School
 2009,WV,West Virginia,Cessation,Want to Quit,,50.2,3.6,43.1,57.3,133.0,Overall,Middle School
 2009,WV,West Virginia,Cessation,Want to Quit,,43.2,5.5,32.4,54.0,65.0,Male,Middle School
 2009,WV,West Virginia,Cessation,Want to Quit,,57.2,5.0,47.4,67.0,65.0,Female,Middle School
@@ -2619,9 +2588,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2007,OK,Oklahoma,Smokeless Tobacco Use,User Status,Current,2.1,0.5,1.1,3.1,1704.0,Female,Middle School
 2007,OK,Oklahoma,Smokeless Tobacco Use,User Status,Ever,8.6,0.9,6.9,10.3,1713.0,Female,Middle School
 2007,OK,Oklahoma,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.1,0.3,1704.0,Female,Middle School
-2007,PR,Puerto Rico,Cigarette Use,Smoking Status,Ever,15.6,1.6,12.5,18.7,1560.0,Overall,Middle School
-2007,PR,Puerto Rico,Cigarette Use,Smoking Status,Ever,17.7,2.2,13.5,22.0,703.0,Male,Middle School
-2007,PR,Puerto Rico,Cigarette Use,Smoking Status,Ever,13.5,1.7,10.1,16.8,826.0,Female,Middle School
 2007,SC,South Carolina,Cessation,Want to Quit,,50.2,4.9,40.5,59.9,91.0,Overall,Middle School
 2007,SC,South Carolina,Cessation,Want to Quit,,,,,,,Male,Middle School
 2007,SC,South Carolina,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -2667,54 +2633,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2007,SD,South Dakota,Smokeless Tobacco Use,User Status,Current,3.5,1.1,1.3,5.7,1313.0,Female,Middle School
 2007,SD,South Dakota,Smokeless Tobacco Use,User Status,Ever,9.8,1.5,6.8,12.8,1309.0,Female,Middle School
 2007,SD,South Dakota,Smokeless Tobacco Use,User Status,Frequent,0.5,0.4,0.0,1.2,1313.0,Female,Middle School
-2007,UT,Utah,Cessation,Want to Quit,,,,,,,Overall,Middle School
-2007,UT,Utah,Cessation,Want to Quit,,,,,,,Male,Middle School
-2007,UT,Utah,Cessation,Want to Quit,,,,,,,Female,Middle School
-2007,UT,Utah,Cessation,Quit Attempt,,,,,,,Overall,Middle School
-2007,UT,Utah,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2007,UT,Utah,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Current,2.3,0.5,1.4,3.2,1412.0,Overall,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Ever,8.2,1.0,6.2,10.2,1380.0,Overall,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.4,0.2,0.0,0.8,1412.0,Overall,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Current,2.4,0.6,1.2,3.6,682.0,Male,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Ever,8.8,1.4,6.0,11.6,661.0,Male,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.5,0.3,0.0,1.0,682.0,Male,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Current,2.1,0.6,1.0,3.2,725.0,Female,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Ever,7.7,1.4,5.0,10.4,715.0,Female,Middle School
-2007,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.2,0.2,0.0,0.6,725.0,Female,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.9,0.4,1.1,2.7,1426.0,Overall,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Ever,5.5,0.8,4.0,7.0,1425.0,Overall,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.1,0.7,1426.0,Overall,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Current,2.6,0.7,1.2,4.0,691.0,Male,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Ever,7.0,1.4,4.3,9.7,689.0,Male,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.5,0.3,0.0,1.1,691.0,Male,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.1,0.3,0.5,1.7,730.0,Female,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Ever,3.9,0.6,2.7,5.1,732.0,Female,Middle School
-2007,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,730.0,Female,Middle School
-2007,VA,Virginia,Cessation,Want to Quit,,47.2,7.0,33.5,60.9,50.0,Overall,Middle School
-2007,VA,Virginia,Cessation,Want to Quit,,,,,,,Male,Middle School
-2007,VA,Virginia,Cessation,Want to Quit,,,,,,,Female,Middle School
-2007,VA,Virginia,Cessation,Quit Attempt,,43.0,8.8,25.7,60.3,55.0,Overall,Middle School
-2007,VA,Virginia,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2007,VA,Virginia,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Current,4.6,0.7,3.3,5.9,1587.0,Overall,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Ever,17.5,1.8,14.0,21.0,1550.0,Overall,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Frequent,1.0,0.2,0.6,1.4,1587.0,Overall,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Current,4.7,0.7,3.3,6.1,802.0,Male,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Ever,18.5,2.1,14.4,22.6,775.0,Male,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Frequent,0.8,0.3,0.3,1.3,802.0,Male,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Current,4.6,0.9,2.9,6.3,775.0,Female,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Ever,16.3,1.9,12.5,20.1,769.0,Female,Middle School
-2007,VA,Virginia,Cigarette Use,Smoking Status,Frequent,1.2,0.5,0.3,2.1,775.0,Female,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Current,2.5,0.6,1.3,3.7,1504.0,Overall,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Ever,7.2,0.9,5.5,8.9,1526.0,Overall,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.6,1504.0,Overall,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Current,4.0,1.0,2.1,5.9,740.0,Male,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Ever,10.2,1.4,7.4,13.0,749.0,Male,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Frequent,0.6,0.3,0.0,1.2,740.0,Male,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Current,1.0,0.4,0.2,1.8,756.0,Female,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Ever,4.1,0.6,3.0,5.2,770.0,Female,Middle School
-2007,VA,Virginia,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.3,756.0,Female,Middle School
 2007,WV,West Virginia,Cessation,Want to Quit,,53.8,4.9,44.2,63.4,139.0,Overall,Middle School
 2007,WV,West Virginia,Cessation,Want to Quit,,57.4,8.3,41.2,73.6,68.0,Male,Middle School
 2007,WV,West Virginia,Cessation,Want to Quit,,50.1,4.8,40.7,59.5,71.0,Female,Middle School
@@ -2880,7 +2798,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2006,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,4.1,0.8,2.6,5.6,804.0,Female,Middle School
 2006,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,9.2,1.5,6.3,12.1,788.0,Female,Middle School
 2006,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.6,804.0,Female,Middle School
-2006,US,National (States and DC),Cessation,Quit Attempt,,64.6,1.7,61.2,67.9,673.0,Overall,Middle School
 2006,NE,Nebraska,Cessation,Want to Quit,,40.5,4.5,31.6,49.4,98.0,Overall,Middle School
 2006,NE,Nebraska,Cessation,Want to Quit,,26.0,5.8,14.6,37.4,52.0,Male,Middle School
 2006,NE,Nebraska,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -3220,30 +3137,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2005,OK,Oklahoma,Smokeless Tobacco Use,User Status,Current,1.4,0.5,0.4,2.3,884.0,Female,Middle School
 2005,OK,Oklahoma,Smokeless Tobacco Use,User Status,Ever,9.0,1.0,7.0,11.1,892.0,Female,Middle School
 2005,OK,Oklahoma,Smokeless Tobacco Use,User Status,Frequent,0.4,0.3,0.0,0.9,884.0,Female,Middle School
-2005,RI,Rhode Island,Cessation,Want to Quit,,46.1,6.4,33.5,58.6,90.0,Overall,Middle School
-2005,RI,Rhode Island,Cessation,Want to Quit,,,,,,,Male,Middle School
-2005,RI,Rhode Island,Cessation,Want to Quit,,,,,,,Female,Middle School
-2005,RI,Rhode Island,Cessation,Quit Attempt,,39.3,3.4,32.7,45.9,107.0,Overall,Middle School
-2005,RI,Rhode Island,Cessation,Quit Attempt,,30.5,5.1,20.5,40.5,54.0,Male,Middle School
-2005,RI,Rhode Island,Cessation,Quit Attempt,,50.3,4.5,41.4,59.2,52.0,Female,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Current,5.0,0.5,4.1,5.9,2454.0,Overall,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,17.3,0.9,15.5,19.2,2320.0,Overall,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,1.2,0.2,0.8,1.6,2454.0,Overall,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Current,5.3,0.6,4.1,6.6,1197.0,Male,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,17.5,1.3,15.0,20.0,1124.0,Male,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,1.6,0.3,1.0,2.3,1197.0,Male,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Current,4.7,0.4,3.8,5.5,1252.0,Female,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,17.2,1.1,15.0,19.3,1190.0,Female,Middle School
-2005,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,0.7,0.2,0.3,1.1,1252.0,Female,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,2.0,0.3,1.5,2.5,2495.0,Overall,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,8.5,0.7,7.2,9.8,2477.0,Overall,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.7,0.1,0.4,0.9,2495.0,Overall,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,2.7,0.5,1.8,3.7,1220.0,Male,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,11.6,1.3,9.1,14.1,1209.0,Male,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.9,0.2,0.5,1.4,1220.0,Male,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.1,0.2,0.7,1.5,1269.0,Female,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,5.2,0.4,4.4,6.0,1262.0,Female,Middle School
-2005,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.6,1269.0,Female,Middle School
 2005,SC,South Carolina,Cessation,Want to Quit,,38.6,5.9,27.1,50.1,99.0,Overall,Middle School
 2005,SC,South Carolina,Cessation,Want to Quit,,34.6,8.1,18.6,50.6,52.0,Male,Middle School
 2005,SC,South Carolina,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -3292,30 +3185,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2005,SD,South Dakota,Smokeless Tobacco Use,User Status,Current,3.9,1.7,0.6,7.2,1379.0,Female,Middle School
 2005,SD,South Dakota,Smokeless Tobacco Use,User Status,Ever,12.1,2.4,7.3,16.9,1364.0,Female,Middle School
 2005,SD,South Dakota,Smokeless Tobacco Use,User Status,Frequent,0.4,0.1,0.1,0.6,1379.0,Female,Middle School
-2005,UT,Utah,Cessation,Want to Quit,,,,,,,Overall,Middle School
-2005,UT,Utah,Cessation,Want to Quit,,,,,,,Male,Middle School
-2005,UT,Utah,Cessation,Want to Quit,,,,,,,Female,Middle School
-2005,UT,Utah,Cessation,Quit Attempt,,,,,,,Overall,Middle School
-2005,UT,Utah,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2005,UT,Utah,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Current,2.0,0.5,1.0,2.9,1447.0,Overall,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Ever,11.7,1.3,9.2,14.1,1397.0,Overall,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.6,0.2,0.1,1.0,1447.0,Overall,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Current,1.6,0.5,0.7,2.5,703.0,Male,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Ever,11.4,1.7,8.1,14.7,676.0,Male,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.8,0.4,0.1,1.6,703.0,Male,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Current,2.2,0.8,0.7,3.7,734.0,Female,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Ever,11.8,1.5,8.9,14.8,716.0,Female,Middle School
-2005,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.3,0.1,0.1,0.5,734.0,Female,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.4,0.4,0.7,2.2,1464.0,Overall,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Ever,5.6,0.8,4.1,7.2,1449.0,Overall,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.6,0.3,0.1,1.1,1464.0,Overall,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Current,2.1,0.6,0.9,3.2,715.0,Male,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Ever,7.6,1.0,5.7,9.5,713.0,Male,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.9,0.4,0.0,1.7,715.0,Male,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Current,0.7,0.4,0.0,1.5,741.0,Female,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Ever,3.5,1.1,1.4,5.6,729.0,Female,Middle School
-2005,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,741.0,Female,Middle School
 2004,AL,Alabama,Cessation,Want to Quit,,42.5,4.5,33.7,51.4,145.0,Overall,Middle School
 2004,AL,Alabama,Cessation,Want to Quit,,41.1,7.7,26.1,56.2,72.0,Male,Middle School
 2004,AL,Alabama,Cessation,Want to Quit,,44.2,4.4,35.5,52.9,73.0,Female,Middle School
@@ -3433,7 +3302,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2004,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,5.1,0.5,4.1,6.1,1496.0,Female,Middle School
 2004,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,9.6,1.1,7.4,11.8,1454.0,Female,Middle School
 2004,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.0,0.5,1496.0,Female,Middle School
-2004,US,National (States and DC),Cessation,Quit Attempt,,64.7,2.3,60.2,69.2,998.0,Overall,Middle School
 2004,NH,New Hampshire,Cessation,Want to Quit,,,,,,,Overall,Middle School
 2004,NH,New Hampshire,Cessation,Want to Quit,,,,,,,Male,Middle School
 2004,NH,New Hampshire,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -3479,30 +3347,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2004,NJ,New Jersey,Smokeless Tobacco Use,User Status,Current,2.6,0.4,1.8,3.4,1058.0,Female,Middle School
 2004,NJ,New Jersey,Smokeless Tobacco Use,User Status,Ever,3.5,0.5,2.5,4.5,1034.0,Female,Middle School
 2004,NJ,New Jersey,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,1058.0,Female,Middle School
-2004,NM,New Mexico,Cessation,Want to Quit,,51.0,4.5,42.2,59.8,155.0,Overall,Middle School
-2004,NM,New Mexico,Cessation,Want to Quit,,47.0,5.9,35.5,58.6,73.0,Male,Middle School
-2004,NM,New Mexico,Cessation,Want to Quit,,55.7,5.9,44.1,67.2,80.0,Female,Middle School
-2004,NM,New Mexico,Cessation,Quit Attempt,,49.3,5.0,39.5,59.1,163.0,Overall,Middle School
-2004,NM,New Mexico,Cessation,Quit Attempt,,51.3,6.7,38.3,64.4,79.0,Male,Middle School
-2004,NM,New Mexico,Cessation,Quit Attempt,,47.6,4.5,38.7,56.4,82.0,Female,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Current,11.2,1.4,8.6,13.9,1662.0,Overall,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Ever,35.2,3.1,29.2,41.2,1640.0,Overall,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Frequent,1.8,0.4,1.1,2.5,1662.0,Overall,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Current,11.4,1.5,8.4,14.3,800.0,Male,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Ever,37.5,3.4,30.7,44.3,790.0,Male,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Frequent,1.8,0.5,0.8,2.8,800.0,Male,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Current,10.9,1.7,7.6,14.1,851.0,Female,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Ever,32.9,3.2,26.6,39.2,840.0,Female,Middle School
-2004,NM,New Mexico,Cigarette Use,Smoking Status,Frequent,1.5,0.4,0.7,2.4,851.0,Female,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Current,4.9,0.9,3.2,6.6,1690.0,Overall,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Ever,12.7,1.4,10.0,15.5,1719.0,Overall,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Frequent,1.2,0.4,0.5,1.9,1690.0,Overall,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Current,7.4,1.5,4.5,10.3,816.0,Male,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Ever,16.6,2.1,12.5,20.7,829.0,Male,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Frequent,2.2,0.7,0.9,3.5,816.0,Male,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Current,2.0,0.6,0.9,3.2,866.0,Female,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Ever,8.6,1.0,6.7,10.6,879.0,Female,Middle School
-2004,NM,New Mexico,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.5,866.0,Female,Middle School
 2004,NC,North Carolina,Cessation,Want to Quit,,47.6,6.8,34.4,60.9,197.0,Overall,Middle School
 2004,NC,North Carolina,Cessation,Want to Quit,,54.7,8.8,37.4,72.0,104.0,Male,Middle School
 2004,NC,North Carolina,Cessation,Want to Quit,,39.9,6.8,26.5,53.3,93.0,Female,Middle School
@@ -3575,54 +3419,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2004,TN,Tennessee,Smokeless Tobacco Use,User Status,Current,2.5,0.5,1.6,3.4,4703.0,Female,Middle School
 2004,TN,Tennessee,Smokeless Tobacco Use,User Status,Ever,8.7,0.8,7.2,10.3,4636.0,Female,Middle School
 2004,TN,Tennessee,Smokeless Tobacco Use,User Status,Frequent,0.1,0.0,0.0,0.2,4703.0,Female,Middle School
-2004,VT,Vermont,Cessation,Want to Quit,,45.5,5.4,35.0,56.0,79.0,Overall,Middle School
-2004,VT,Vermont,Cessation,Want to Quit,,,,,,,Male,Middle School
-2004,VT,Vermont,Cessation,Want to Quit,,,,,,,Female,Middle School
-2004,VT,Vermont,Cessation,Quit Attempt,,51.1,6.0,39.3,62.9,85.0,Overall,Middle School
-2004,VT,Vermont,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2004,VT,Vermont,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Current,5.8,0.8,4.2,7.4,1702.0,Overall,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Ever,20.6,1.8,17.0,24.2,1664.0,Overall,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Frequent,1.8,0.5,0.9,2.8,1702.0,Overall,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Current,6.5,1.2,4.2,8.7,847.0,Male,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Ever,22.8,2.4,18.0,27.6,831.0,Male,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Frequent,2.5,0.7,1.3,3.8,847.0,Male,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Current,5.2,0.8,3.5,6.8,853.0,Female,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Ever,18.4,1.9,14.6,22.1,830.0,Female,Middle School
-2004,VT,Vermont,Cigarette Use,Smoking Status,Frequent,1.1,0.4,0.3,1.9,853.0,Female,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Current,2.6,0.5,1.7,3.5,1732.0,Overall,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,8.4,1.1,6.3,10.5,1728.0,Overall,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.4,0.1,0.1,0.6,1732.0,Overall,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Current,4.0,0.7,2.6,5.5,865.0,Male,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,12.0,1.7,8.8,15.3,864.0,Male,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.2,1.2,865.0,Male,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Current,1.1,0.4,0.3,1.9,862.0,Female,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,4.6,0.9,2.7,6.4,859.0,Female,Middle School
-2004,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,862.0,Female,Middle School
-2004,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Overall,Middle School
-2004,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Male,Middle School
-2004,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Female,Middle School
-2004,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Overall,Middle School
-2004,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2004,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,3.1,0.6,2.0,4.2,1705.0,Overall,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,15.5,1.2,13.2,17.7,1559.0,Overall,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.1,0.1,0.0,0.3,1705.0,Overall,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,3.2,0.6,2.0,4.5,859.0,Male,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,16.2,1.4,13.5,19.0,771.0,Male,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.1,0.1,0.0,0.4,859.0,Male,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,2.8,0.8,1.2,4.4,835.0,Female,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,14.4,1.5,11.5,17.2,781.0,Female,Middle School
-2004,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.1,0.1,0.0,0.4,835.0,Female,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,0.9,0.2,0.5,1.4,1716.0,Overall,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,7.3,0.7,6.0,8.7,1723.0,Overall,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.0,0.5,1716.0,Overall,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,1.5,0.4,0.6,2.3,861.0,Male,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,9.4,1.0,7.5,11.4,866.0,Male,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.5,0.3,0.0,1.0,861.0,Male,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,0.2,0.2,0.0,0.6,846.0,Female,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,5.2,0.8,3.7,6.8,848.0,Female,Middle School
-2004,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,846.0,Female,Middle School
 2004,WI,Wisconsin,Cessation,Want to Quit,,50.7,5.0,40.9,60.5,98.0,Overall,Middle School
 2004,WI,Wisconsin,Cessation,Want to Quit,,,,,,,Male,Middle School
 2004,WI,Wisconsin,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -3671,30 +3467,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,AZ,Arizona,Smokeless Tobacco Use,User Status,Current,1.3,0.4,0.5,2.0,1047.0,Female,Middle School
 2003,AZ,Arizona,Smokeless Tobacco Use,User Status,Ever,7.1,1.0,5.2,9.1,1030.0,Female,Middle School
 2003,AZ,Arizona,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.4,1047.0,Female,Middle School
-2003,CA,California,Cessation,Want to Quit,,45.6,6.9,32.0,59.1,355.0,Overall,Middle School
-2003,CA,California,Cessation,Want to Quit,,48.6,9.2,30.7,66.6,164.0,Male,Middle School
-2003,CA,California,Cessation,Want to Quit,,41.0,6.2,28.9,53.2,187.0,Female,Middle School
-2003,CA,California,Cessation,Quit Attempt,,49.5,3.8,42.0,57.0,394.0,Overall,Middle School
-2003,CA,California,Cessation,Quit Attempt,,47.7,5.3,37.3,58.1,188.0,Male,Middle School
-2003,CA,California,Cessation,Quit Attempt,,51.6,6.2,39.5,63.7,203.0,Female,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Current,3.9,0.5,3.0,4.9,10545.0,Overall,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Ever,16.6,1.1,14.5,18.8,10183.0,Overall,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Frequent,0.7,0.2,0.3,1.1,10545.0,Overall,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Current,4.4,0.6,3.2,5.6,4858.0,Male,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Ever,17.4,1.2,15.1,19.7,4658.0,Male,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Frequent,1.1,0.4,0.3,1.8,4858.0,Male,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Current,3.4,0.5,2.4,4.4,5644.0,Female,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Ever,15.9,1.3,13.3,18.4,5490.0,Female,Middle School
-2003,CA,California,Cigarette Use,Smoking Status,Frequent,0.3,0.1,0.2,0.5,5644.0,Female,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Current,2.0,0.4,1.2,2.8,10602.0,Overall,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Ever,5.9,0.4,5.0,6.7,10705.0,Overall,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.1,0.8,10602.0,Overall,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Current,2.1,0.4,1.2,3.0,4860.0,Male,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Ever,7.0,0.6,5.8,8.2,4933.0,Male,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.6,0.3,0.0,1.3,4860.0,Male,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Current,1.9,0.5,0.8,3.0,5699.0,Female,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Ever,4.6,0.7,3.3,6.0,5730.0,Female,Middle School
-2003,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,5699.0,Female,Middle School
 2003,HI,Hawaii,Cessation,Want to Quit,,62.6,2.9,56.9,68.2,345.0,Overall,Middle School
 2003,HI,Hawaii,Cessation,Want to Quit,,54.7,4.6,45.6,63.8,144.0,Male,Middle School
 2003,HI,Hawaii,Cessation,Want to Quit,,68.6,3.4,61.9,75.3,200.0,Female,Middle School
@@ -3719,54 +3491,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,HI,Hawaii,Smokeless Tobacco Use,User Status,Current,1.2,0.2,0.9,1.5,5193.0,Female,Middle School
 2003,HI,Hawaii,Smokeless Tobacco Use,User Status,Ever,6.9,0.4,6.1,7.7,5172.0,Female,Middle School
 2003,HI,Hawaii,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.5,5193.0,Female,Middle School
-2003,ID,Idaho,Cessation,Want to Quit,,54.6,4.4,45.9,63.3,100.0,Overall,Middle School
-2003,ID,Idaho,Cessation,Want to Quit,,,,,,,Male,Middle School
-2003,ID,Idaho,Cessation,Want to Quit,,60.9,5.9,49.5,72.4,62.0,Female,Middle School
-2003,ID,Idaho,Cessation,Quit Attempt,,58.4,4.2,50.3,66.6,122.0,Overall,Middle School
-2003,ID,Idaho,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2003,ID,Idaho,Cessation,Quit Attempt,,63.2,3.9,55.6,70.8,76.0,Female,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Current,9.4,1.0,7.3,11.4,1585.0,Overall,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Ever,31.5,2.4,26.8,36.1,1519.0,Overall,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Frequent,2.1,0.5,1.1,3.2,1585.0,Overall,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Current,7.5,1.1,5.3,9.7,800.0,Male,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Ever,31.7,3.2,25.4,38.1,760.0,Male,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Frequent,1.8,0.4,1.0,2.7,800.0,Male,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Current,11.2,1.3,8.6,13.8,779.0,Female,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Ever,31.2,2.1,27.1,35.4,755.0,Female,Middle School
-2003,ID,Idaho,Cigarette Use,Smoking Status,Frequent,2.2,0.8,0.6,3.8,779.0,Female,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Current,2.7,0.6,1.5,3.9,1623.0,Overall,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Ever,11.9,0.8,10.3,13.4,1622.0,Overall,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Frequent,0.6,0.1,0.3,0.8,1623.0,Overall,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Current,2.6,0.5,1.7,3.6,816.0,Male,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Ever,15.3,0.9,13.5,17.2,819.0,Male,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.2,1.5,816.0,Male,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Current,2.7,0.9,0.9,4.4,801.0,Female,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Ever,8.0,1.0,5.9,10.0,797.0,Female,Middle School
-2003,ID,Idaho,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,801.0,Female,Middle School
-2003,MI,Michigan,Cessation,Want to Quit,,42.5,3.9,34.8,50.2,227.0,Overall,Middle School
-2003,MI,Michigan,Cessation,Want to Quit,,42.4,4.5,33.6,51.2,113.0,Male,Middle School
-2003,MI,Michigan,Cessation,Want to Quit,,42.6,4.5,33.7,51.5,114.0,Female,Middle School
-2003,MI,Michigan,Cessation,Quit Attempt,,49.0,3.5,42.2,55.8,241.0,Overall,Middle School
-2003,MI,Michigan,Cessation,Quit Attempt,,47.3,4.4,38.6,55.9,118.0,Male,Middle School
-2003,MI,Michigan,Cessation,Quit Attempt,,50.6,6.1,38.6,62.6,123.0,Female,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Current,7.2,0.9,5.5,8.9,3892.0,Overall,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Ever,23.8,2.0,19.9,27.7,3651.0,Overall,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Frequent,1.8,0.4,1.1,2.6,3892.0,Overall,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Current,6.9,0.9,5.1,8.7,2023.0,Male,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Ever,23.3,2.1,19.2,27.4,1862.0,Male,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Frequent,2.2,0.5,1.2,3.1,2023.0,Male,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Current,7.6,1.0,5.6,9.5,1863.0,Female,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Ever,24.4,2.2,20.0,28.8,1783.0,Female,Middle School
-2003,MI,Michigan,Cigarette Use,Smoking Status,Frequent,1.5,0.4,0.8,2.2,1863.0,Female,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Current,5.1,3.1,0.0,11.1,3989.0,Overall,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,11.0,3.3,4.4,17.5,3938.0,Overall,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.4,0.1,0.2,0.7,3989.0,Overall,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Current,5.7,3.0,0.0,11.7,2082.0,Male,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,12.8,3.3,6.4,19.2,2054.0,Male,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.4,1.0,2082.0,Male,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Current,4.4,3.1,0.0,10.6,1899.0,Female,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,9.1,3.5,2.2,16.1,1878.0,Female,Middle School
-2003,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,1899.0,Female,Middle School
 2003,MS,Mississippi,Cessation,Want to Quit,,50.1,2.5,45.2,55.0,869.0,Overall,Middle School
 2003,MS,Mississippi,Cessation,Want to Quit,,48.7,3.3,42.2,55.2,463.0,Male,Middle School
 2003,MS,Mississippi,Cessation,Want to Quit,,51.5,4.0,43.7,59.3,401.0,Female,Middle School
@@ -3836,30 +3560,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,ND,North Dakota,Smokeless Tobacco Use,User Status,Current,2.2,0.7,0.9,3.6,848.0,Female,Middle School
 2003,ND,North Dakota,Smokeless Tobacco Use,User Status,Ever,7.5,1.3,5.0,10.0,841.0,Female,Middle School
 2003,ND,North Dakota,Smokeless Tobacco Use,User Status,Frequent,0.7,0.5,0.0,1.7,848.0,Female,Middle School
-2003,RI,Rhode Island,Cessation,Want to Quit,,55.1,3.6,48.1,62.1,127.0,Overall,Middle School
-2003,RI,Rhode Island,Cessation,Want to Quit,,45.6,5.8,34.2,57.0,73.0,Male,Middle School
-2003,RI,Rhode Island,Cessation,Want to Quit,,69.1,5.5,58.3,79.9,53.0,Female,Middle School
-2003,RI,Rhode Island,Cessation,Quit Attempt,,46.1,5.0,36.3,55.8,107.0,Overall,Middle School
-2003,RI,Rhode Island,Cessation,Quit Attempt,,40.6,7.8,25.4,55.8,63.0,Male,Middle School
-2003,RI,Rhode Island,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Current,6.8,0.8,5.2,8.4,2333.0,Overall,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,22.6,1.4,19.7,25.4,2224.0,Overall,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,2.0,0.3,1.4,2.7,2333.0,Overall,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Current,7.1,1.2,4.8,9.4,1145.0,Male,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,23.6,2.2,19.3,27.9,1084.0,Male,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,2.4,0.6,1.2,3.6,1145.0,Male,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Current,6.4,0.8,4.7,8.0,1181.0,Female,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,21.5,1.2,19.1,23.9,1135.0,Female,Middle School
-2003,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,1.5,0.3,0.9,2.0,1181.0,Female,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.9,0.4,1.2,2.6,2353.0,Overall,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,7.8,0.5,6.8,8.9,2359.0,Overall,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.3,1.1,2353.0,Overall,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,2.5,0.6,1.3,3.8,1155.0,Male,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,10.5,0.9,8.7,12.4,1157.0,Male,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.2,1.4,1155.0,Male,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.1,0.3,0.5,1.8,1192.0,Female,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,4.9,0.5,3.9,5.9,1196.0,Female,Middle School
-2003,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.1,0.8,1192.0,Female,Middle School
 2003,SD,South Dakota,Cessation,Want to Quit,,65.4,6.4,52.9,77.9,101.0,Overall,Middle School
 2003,SD,South Dakota,Cessation,Want to Quit,,,,,,,Male,Middle School
 2003,SD,South Dakota,Cessation,Want to Quit,,67.4,5.5,56.6,78.2,56.0,Female,Middle School
@@ -3884,30 +3584,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2003,SD,South Dakota,Smokeless Tobacco Use,User Status,Current,0.6,0.3,0.0,1.2,1202.0,Female,Middle School
 2003,SD,South Dakota,Smokeless Tobacco Use,User Status,Ever,6.4,1.1,4.1,8.6,1210.0,Female,Middle School
 2003,SD,South Dakota,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,1202.0,Female,Middle School
-2003,UT,Utah,Cessation,Want to Quit,,27.2,10.5,6.7,47.8,59.0,Overall,Middle School
-2003,UT,Utah,Cessation,Want to Quit,,,,,,,Male,Middle School
-2003,UT,Utah,Cessation,Want to Quit,,,,,,,Female,Middle School
-2003,UT,Utah,Cessation,Quit Attempt,,29.3,9.5,10.7,48.0,71.0,Overall,Middle School
-2003,UT,Utah,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2003,UT,Utah,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Current,3.3,0.8,1.6,5.0,2735.0,Overall,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Ever,12.8,2.0,8.9,16.7,2655.0,Overall,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.6,0.3,0.0,1.2,2735.0,Overall,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Current,3.1,0.8,1.6,4.6,1300.0,Male,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Ever,11.3,2.4,6.6,16.0,1251.0,Male,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.3,0.1,0.0,0.6,1300.0,Male,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Current,3.5,1.7,0.2,6.8,1430.0,Female,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Ever,14.2,2.0,10.2,18.2,1397.0,Female,Middle School
-2003,UT,Utah,Cigarette Use,Smoking Status,Frequent,0.9,0.6,0.0,2.1,1430.0,Female,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.8,0.8,0.2,3.5,2749.0,Overall,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Ever,5.7,0.6,4.6,6.9,2767.0,Overall,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.4,0.3,0.0,0.9,2749.0,Overall,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Current,1.3,0.4,0.5,2.2,1306.0,Male,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Ever,6.1,0.7,4.8,7.4,1311.0,Male,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.3,1306.0,Male,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Current,2.3,1.6,0.0,5.6,1437.0,Female,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Ever,5.4,0.9,3.5,7.2,1450.0,Female,Middle School
-2003,UT,Utah,Smokeless Tobacco Use,User Status,Frequent,0.6,0.5,0.0,1.7,1437.0,Female,Middle School
 2003,WI,Wisconsin,Cessation,Want to Quit,,44.8,5.5,34.0,55.6,89.0,Overall,Middle School
 2003,WI,Wisconsin,Cessation,Want to Quit,,,,,,,Male,Middle School
 2003,WI,Wisconsin,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -4004,54 +3680,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,DE,Delaware,Smokeless Tobacco Use,User Status,Current,0.9,0.3,0.3,1.5,1355.0,Female,Middle School
 2002,DE,Delaware,Smokeless Tobacco Use,User Status,Ever,3.3,0.5,2.2,4.3,1355.0,Female,Middle School
 2002,DE,Delaware,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.6,1355.0,Female,Middle School
-2002,FL,Florida,Cessation,Want to Quit,,52.9,1.3,50.3,55.5,1311.0,Overall,Middle School
-2002,FL,Florida,Cessation,Want to Quit,,51.6,2.9,45.8,57.3,634.0,Male,Middle School
-2002,FL,Florida,Cessation,Want to Quit,,54.4,1.9,50.6,58.1,677.0,Female,Middle School
-2002,FL,Florida,Cessation,Quit Attempt,,56.6,1.4,53.8,59.4,1461.0,Overall,Middle School
-2002,FL,Florida,Cessation,Quit Attempt,,53.9,3.0,47.9,59.8,722.0,Male,Middle School
-2002,FL,Florida,Cessation,Quit Attempt,,59.7,1.8,56.1,63.3,739.0,Female,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Current,10.1,0.9,8.4,11.8,15150.0,Overall,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Ever,30.3,1.6,27.2,33.4,15100.0,Overall,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Frequent,2.3,0.3,1.7,3.0,15150.0,Overall,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Current,10.5,0.9,8.8,12.3,7389.0,Male,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Ever,31.5,1.7,28.2,34.7,7363.0,Male,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Frequent,2.7,0.3,2.0,3.4,7389.0,Male,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Current,9.7,1.0,7.8,11.6,7761.0,Female,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Ever,29.1,1.6,25.8,32.3,7737.0,Female,Middle School
-2002,FL,Florida,Cigarette Use,Smoking Status,Frequent,1.9,0.4,1.2,2.7,7761.0,Female,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Current,6.9,0.7,5.5,8.3,14653.0,Overall,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Ever,97.9,0.2,97.6,98.3,13631.0,Overall,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,2.6,0.3,1.9,3.3,14653.0,Overall,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Current,9.7,0.9,7.9,11.5,7100.0,Male,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Ever,98.0,0.2,97.5,98.4,6629.0,Male,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,3.6,0.5,2.7,4.5,7100.0,Male,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Current,4.0,0.5,3.1,4.9,7553.0,Female,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Ever,97.9,0.2,97.5,98.3,7002.0,Female,Middle School
-2002,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,1.5,0.2,1.1,2.0,7553.0,Female,Middle School
-2002,GU,Guam,Cessation,Want to Quit,,70.4,3.7,63.1,77.7,154.0,Overall,Middle School
-2002,GU,Guam,Cessation,Want to Quit,,61.7,5.7,50.6,72.9,78.0,Male,Middle School
-2002,GU,Guam,Cessation,Want to Quit,,79.5,4.5,70.7,88.4,76.0,Female,Middle School
-2002,GU,Guam,Cessation,Quit Attempt,,74.1,3.3,67.6,80.6,168.0,Overall,Middle School
-2002,GU,Guam,Cessation,Quit Attempt,,68.5,4.3,60.0,77.0,86.0,Male,Middle School
-2002,GU,Guam,Cessation,Quit Attempt,,80.3,4.4,71.7,89.0,82.0,Female,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Current,12.9,1.1,10.7,15.0,1613.0,Overall,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Ever,34.6,2.2,30.4,38.8,1575.0,Overall,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Frequent,3.0,0.4,2.2,3.9,1613.0,Overall,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Current,13.3,1.5,10.3,16.3,799.0,Male,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Ever,36.9,2.4,32.1,41.7,782.0,Male,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Frequent,3.5,0.7,2.2,4.9,799.0,Male,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Current,12.3,1.3,9.8,14.8,809.0,Female,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Ever,32.2,2.7,26.9,37.4,788.0,Female,Middle School
-2002,GU,Guam,Cigarette Use,Smoking Status,Frequent,2.4,0.5,1.4,3.4,809.0,Female,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Current,3.5,0.6,2.5,4.6,1643.0,Overall,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Ever,9.6,0.8,8.0,11.2,1635.0,Overall,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.2,1.1,1643.0,Overall,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Current,3.6,0.7,2.3,5.0,820.0,Male,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Ever,10.2,1.0,8.1,12.2,816.0,Male,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.2,1.5,820.0,Male,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Current,3.4,0.7,2.0,4.7,818.0,Female,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Ever,8.9,1.2,6.6,11.2,814.0,Female,Middle School
-2002,GU,Guam,Smokeless Tobacco Use,User Status,Frequent,0.5,0.2,0.1,1.0,818.0,Female,Middle School
 2002,IL,Illinois,Cessation,Want to Quit,,46.3,4.8,37.0,55.6,97.0,Overall,Middle School
 2002,IL,Illinois,Cessation,Want to Quit,,,,,,,Male,Middle School
 2002,IL,Illinois,Cessation,Want to Quit,,42.9,4.1,34.9,51.0,59.0,Female,Middle School
@@ -4145,54 +3773,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,KY,Kentucky,Smokeless Tobacco Use,User Status,Current,3.3,0.7,2.0,4.7,751.0,Female,Middle School
 2002,KY,Kentucky,Smokeless Tobacco Use,User Status,Ever,11.4,0.9,9.6,13.2,740.0,Female,Middle School
 2002,KY,Kentucky,Smokeless Tobacco Use,User Status,Frequent,0.5,0.2,0.0,1.0,751.0,Female,Middle School
-2002,MD,Maryland,Cessation,Want to Quit,,51.6,2.7,46.3,57.0,1305.0,Overall,Middle School
-2002,MD,Maryland,Cessation,Want to Quit,,50.9,3.7,43.6,58.1,639.0,Male,Middle School
-2002,MD,Maryland,Cessation,Want to Quit,,52.5,3.9,44.8,60.1,661.0,Female,Middle School
-2002,MD,Maryland,Cessation,Quit Attempt,,53.2,1.9,49.4,56.9,1479.0,Overall,Middle School
-2002,MD,Maryland,Cessation,Quit Attempt,,49.5,3.4,42.8,56.1,724.0,Male,Middle School
-2002,MD,Maryland,Cessation,Quit Attempt,,56.8,3.1,50.6,63.0,747.0,Female,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Current,5.3,0.2,4.8,5.7,26236.0,Overall,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Ever,22.2,0.7,20.9,23.5,25265.0,Overall,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Frequent,1.2,0.1,1.0,1.4,26236.0,Overall,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Current,5.4,0.4,4.7,6.1,13001.0,Male,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Ever,23.3,0.8,21.9,24.8,12483.0,Male,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Frequent,1.3,0.2,1.0,1.6,13001.0,Male,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Current,5.1,0.3,4.5,5.7,13152.0,Female,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Ever,21.1,0.9,19.4,22.9,12716.0,Female,Middle School
-2002,MD,Maryland,Cigarette Use,Smoking Status,Frequent,1.1,0.1,0.8,1.3,13152.0,Female,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Current,2.1,0.1,1.9,2.4,26229.0,Overall,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,7.4,0.4,6.7,8.2,26215.0,Overall,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.5,0.1,0.4,0.7,26229.0,Overall,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Current,2.9,0.2,2.4,3.3,12950.0,Male,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,9.4,0.5,8.3,10.4,12951.0,Male,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.8,0.1,0.5,1.1,12950.0,Male,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Current,1.3,0.2,1.0,1.6,13201.0,Female,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,5.4,0.4,4.7,6.1,13191.0,Female,Middle School
-2002,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.1,0.4,13201.0,Female,Middle School
-2002,MA,Massachusetts,Cessation,Want to Quit,,47.3,5.1,37.4,57.3,87.0,Overall,Middle School
-2002,MA,Massachusetts,Cessation,Want to Quit,,,,,,,Male,Middle School
-2002,MA,Massachusetts,Cessation,Want to Quit,,,,,,,Female,Middle School
-2002,MA,Massachusetts,Cessation,Quit Attempt,,51.8,3.8,44.5,59.2,82.0,Overall,Middle School
-2002,MA,Massachusetts,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2002,MA,Massachusetts,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Current,7.1,1.0,5.2,9.1,1911.0,Overall,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Ever,27.0,2.3,22.4,31.6,1792.0,Overall,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Frequent,1.4,0.3,0.7,2.1,1911.0,Overall,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Current,7.1,1.4,4.3,9.9,957.0,Male,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Ever,27.5,2.7,22.2,32.9,903.0,Male,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Frequent,1.9,0.4,1.1,2.8,957.0,Male,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Current,7.0,1.0,5.0,9.0,946.0,Female,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Ever,26.4,2.5,21.6,31.2,884.0,Female,Middle School
-2002,MA,Massachusetts,Cigarette Use,Smoking Status,Frequent,0.7,0.4,0.0,1.4,946.0,Female,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Current,1.2,0.3,0.6,1.8,1921.0,Overall,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Ever,9.0,0.8,7.3,10.6,1907.0,Overall,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.0,0.5,1921.0,Overall,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Current,1.3,0.5,0.4,2.2,961.0,Male,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Ever,9.6,1.2,7.3,11.9,954.0,Male,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.5,961.0,Male,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Current,1.1,0.3,0.5,1.8,953.0,Female,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Ever,8.2,0.8,6.6,9.9,947.0,Female,Middle School
-2002,MA,Massachusetts,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.6,953.0,Female,Middle School
 2002,MN,Minnesota,Cessation,Want to Quit,,61.5,3.2,55.2,67.8,251.0,Overall,Middle School
 2002,MN,Minnesota,Cessation,Want to Quit,,61.9,4.2,53.7,70.0,114.0,Male,Middle School
 2002,MN,Minnesota,Cessation,Want to Quit,,61.3,5.2,51.2,71.5,135.0,Female,Middle School
@@ -4238,7 +3818,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,MS,Mississippi,Smokeless Tobacco Use,User Status,Current,4.5,0.7,3.2,5.8,1370.0,Female,Middle School
 2002,MS,Mississippi,Smokeless Tobacco Use,User Status,Ever,10.1,0.9,8.4,11.8,1352.0,Female,Middle School
 2002,MS,Mississippi,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.3,1.3,1370.0,Female,Middle School
-2002,US,National (States and DC),Cessation,Quit Attempt,,55.1,2.4,50.4,59.8,1016.0,Overall,Middle School
 2002,NE,Nebraska,Cessation,Want to Quit,,58.7,5.5,47.9,69.4,139.0,Overall,Middle School
 2002,NE,Nebraska,Cessation,Want to Quit,,55.2,9.0,37.5,72.9,63.0,Male,Middle School
 2002,NE,Nebraska,Cessation,Want to Quit,,61.7,5.4,51.1,72.3,75.0,Female,Middle School
@@ -4263,27 +3842,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,NE,Nebraska,Smokeless Tobacco Use,User Status,Current,0.5,0.2,0.2,0.9,1450.0,Female,Middle School
 2002,NE,Nebraska,Smokeless Tobacco Use,User Status,Ever,6.9,0.6,5.7,8.2,1412.0,Female,Middle School
 2002,NE,Nebraska,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,1450.0,Female,Middle School
-2002,NY,New York,Cessation,Want to Quit,,53.9,6.8,40.5,67.3,199.0,Overall,Middle School
-2002,NY,New York,Cessation,Want to Quit,,62.5,7.9,47.0,78.0,99.0,Male,Middle School
-2002,NY,New York,Cessation,Want to Quit,,52.7,6.0,40.9,64.5,97.0,Female,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Current,7.4,1.2,5.1,9.7,4357.0,Overall,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Ever,27.9,4.0,20.0,35.8,4423.0,Overall,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Frequent,2.2,0.7,0.8,3.5,4357.0,Overall,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Current,7.9,1.2,5.6,10.2,2163.0,Male,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Ever,29.9,4.4,21.3,38.6,2196.0,Male,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Frequent,1.4,0.5,0.4,2.4,2163.0,Male,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Current,6.3,1.5,3.4,9.3,2183.0,Female,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Ever,25.4,4.1,17.5,33.4,2215.0,Female,Middle School
-2002,NY,New York,Cigarette Use,Smoking Status,Frequent,2.2,1.2,0.0,4.5,2183.0,Female,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Current,4.8,1.2,2.4,7.1,4233.0,Overall,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Ever,8.4,2.7,3.2,13.6,4269.0,Overall,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Frequent,1.4,0.4,0.5,2.2,4233.0,Overall,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Current,7.2,2.2,2.8,11.5,2090.0,Male,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Ever,12.8,4.2,4.6,21.1,2100.0,Male,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Frequent,1.6,0.5,0.7,2.6,2090.0,Male,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Current,1.7,0.5,0.7,2.7,2132.0,Female,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Ever,3.4,1.4,0.7,6.1,2158.0,Female,Middle School
-2002,NY,New York,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.0,0.8,2132.0,Female,Middle School
 2002,NC,North Carolina,Cessation,Want to Quit,,53.2,3.7,46.0,60.3,431.0,Overall,Middle School
 2002,NC,North Carolina,Cessation,Want to Quit,,56.0,4.9,46.5,65.6,211.0,Male,Middle School
 2002,NC,North Carolina,Cessation,Want to Quit,,51.8,5.2,41.5,62.0,213.0,Female,Middle School
@@ -4404,30 +3962,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,TN,Tennessee,Smokeless Tobacco Use,User Status,Current,2.1,0.3,1.5,2.7,4311.0,Female,Middle School
 2002,TN,Tennessee,Smokeless Tobacco Use,User Status,Ever,8.3,0.6,7.2,9.4,4311.0,Female,Middle School
 2002,TN,Tennessee,Smokeless Tobacco Use,User Status,Frequent,0.3,0.1,0.1,0.5,4311.0,Female,Middle School
-2002,VT,Vermont,Cessation,Want to Quit,,47.4,4.6,38.4,56.4,331.0,Overall,Middle School
-2002,VT,Vermont,Cessation,Want to Quit,,52.8,4.7,43.5,62.0,144.0,Male,Middle School
-2002,VT,Vermont,Cessation,Want to Quit,,43.0,5.3,32.5,53.4,183.0,Female,Middle School
-2002,VT,Vermont,Cessation,Quit Attempt,,49.2,4.5,40.5,58.0,363.0,Overall,Middle School
-2002,VT,Vermont,Cessation,Quit Attempt,,52.8,4.6,43.8,61.9,158.0,Male,Middle School
-2002,VT,Vermont,Cessation,Quit Attempt,,45.4,6.0,33.7,57.1,203.0,Female,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Current,8.6,0.9,7.0,10.3,4540.0,Overall,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Ever,30.7,2.1,26.5,34.9,4425.0,Overall,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Frequent,2.9,0.4,2.1,3.7,4540.0,Overall,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Current,8.2,1.0,6.3,10.2,2255.0,Male,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Ever,32.5,2.4,27.7,37.2,2185.0,Male,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Frequent,2.4,0.4,1.6,3.3,2255.0,Male,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Current,8.9,1.0,7.0,10.9,2263.0,Female,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Ever,28.8,2.5,23.9,33.6,2221.0,Female,Middle School
-2002,VT,Vermont,Cigarette Use,Smoking Status,Frequent,3.4,0.6,2.2,4.5,2263.0,Female,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Current,2.7,0.3,2.1,3.4,4662.0,Overall,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,10.6,1.0,8.7,12.5,4600.0,Overall,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.6,0.2,0.2,1.0,4662.0,Overall,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Current,4.0,0.6,2.9,5.1,2312.0,Male,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,13.9,1.3,11.3,16.5,2277.0,Male,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.2,1.5,2312.0,Male,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Current,1.2,0.3,0.7,1.7,2326.0,Female,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,7.2,1.0,5.3,9.1,2304.0,Female,Middle School
-2002,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,2326.0,Female,Middle School
 2002,WV,West Virginia,Cessation,Want to Quit,,50.8,1.5,48.0,53.7,1200.0,Overall,Middle School
 2002,WV,West Virginia,Cessation,Want to Quit,,49.5,2.0,45.5,53.4,547.0,Male,Middle School
 2002,WV,West Virginia,Cessation,Want to Quit,,52.3,2.1,48.2,56.3,648.0,Female,Middle School
@@ -4476,30 +4010,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2002,WI,Wisconsin,Smokeless Tobacco Use,User Status,Current,1.9,0.7,0.5,3.3,614.0,Female,Middle School
 2002,WI,Wisconsin,Smokeless Tobacco Use,User Status,Ever,6.6,1.4,3.9,9.4,611.0,Female,Middle School
 2002,WI,Wisconsin,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,614.0,Female,Middle School
-2001,FL,Florida,Cessation,Want to Quit,,52.1,2.9,46.4,57.8,339.0,Overall,Middle School
-2001,FL,Florida,Cessation,Want to Quit,,54.2,4.1,46.2,62.2,172.0,Male,Middle School
-2001,FL,Florida,Cessation,Want to Quit,,49.7,4.4,41.1,58.3,167.0,Female,Middle School
-2001,FL,Florida,Cessation,Quit Attempt,,56.4,2.7,51.2,61.6,380.0,Overall,Middle School
-2001,FL,Florida,Cessation,Quit Attempt,,54.1,4.0,46.3,61.9,194.0,Male,Middle School
-2001,FL,Florida,Cessation,Quit Attempt,,59.0,3.6,52.0,66.0,186.0,Female,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Current,9.8,0.8,8.2,11.4,4224.0,Overall,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Ever,32.1,1.5,29.2,35.0,4296.0,Overall,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Frequent,2.1,0.4,1.4,2.8,4224.0,Overall,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Current,10.0,1.0,8.1,11.9,2080.0,Male,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Ever,32.4,1.5,29.5,35.3,2110.0,Male,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Frequent,2.7,0.5,1.8,3.6,2080.0,Male,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Current,9.5,1.0,7.6,11.4,2144.0,Female,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Ever,31.8,1.7,28.4,35.2,2186.0,Female,Middle School
-2001,FL,Florida,Cigarette Use,Smoking Status,Frequent,1.5,0.4,0.7,2.3,2144.0,Female,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Current,3.0,0.4,2.3,3.7,4317.0,Overall,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Ever,5.9,0.6,4.7,7.1,4322.0,Overall,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,0.8,0.2,0.5,1.1,4317.0,Overall,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Current,4.5,0.6,3.3,5.7,2125.0,Male,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Ever,8.7,1.0,6.8,10.6,2132.0,Male,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,1.4,0.3,0.8,2.0,2125.0,Male,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Current,1.5,0.3,1.0,2.0,2192.0,Female,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Ever,2.9,0.4,2.1,3.7,2190.0,Female,Middle School
-2001,FL,Florida,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,2192.0,Female,Middle School
 2001,GA,Georgia,Cessation,Quit Attempt,,54.4,4.1,46.3,62.5,211.0,Overall,Middle School
 2001,GA,Georgia,Cessation,Quit Attempt,,57.1,6.9,43.6,70.6,110.0,Male,Middle School
 2001,GA,Georgia,Cessation,Quit Attempt,,52.7,5.8,41.3,64.1,100.0,Female,Middle School
@@ -4521,30 +4031,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2001,GA,Georgia,Smokeless Tobacco Use,User Status,Current,1.1,0.2,0.7,1.6,1373.0,Female,Middle School
 2001,GA,Georgia,Smokeless Tobacco Use,User Status,Ever,6.8,1.1,4.7,8.9,1347.0,Female,Middle School
 2001,GA,Georgia,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.1,1373.0,Female,Middle School
-2001,ID,Idaho,Cessation,Want to Quit,,54.9,4.7,45.6,64.1,128.0,Overall,Middle School
-2001,ID,Idaho,Cessation,Want to Quit,,59.9,5.7,48.7,71.0,67.0,Male,Middle School
-2001,ID,Idaho,Cessation,Want to Quit,,49.5,8.8,32.2,66.7,61.0,Female,Middle School
-2001,ID,Idaho,Cessation,Quit Attempt,,55.3,4.1,47.4,63.3,143.0,Overall,Middle School
-2001,ID,Idaho,Cessation,Quit Attempt,,61.5,4.8,52.0,71.0,75.0,Male,Middle School
-2001,ID,Idaho,Cessation,Quit Attempt,,49.3,6.7,36.2,62.4,67.0,Female,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Current,9.6,0.9,7.7,11.4,1825.0,Overall,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Ever,33.7,1.8,30.1,37.3,1778.0,Overall,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Frequent,3.3,0.6,2.1,4.5,1825.0,Overall,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Current,9.7,1.2,7.2,12.1,910.0,Male,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Ever,35.9,2.6,30.8,41.0,885.0,Male,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Frequent,3.0,0.7,1.5,4.5,910.0,Male,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Current,9.4,0.9,7.6,11.2,911.0,Female,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Ever,31.1,1.6,27.9,34.3,889.0,Female,Middle School
-2001,ID,Idaho,Cigarette Use,Smoking Status,Frequent,3.6,0.7,2.2,4.9,911.0,Female,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Current,3.3,0.4,2.5,4.1,1848.0,Overall,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Ever,10.7,0.8,9.0,12.3,1850.0,Overall,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Frequent,1.0,0.3,0.4,1.5,1848.0,Overall,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Current,4.8,0.6,3.6,6.0,922.0,Male,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Ever,15.1,1.2,12.7,17.6,926.0,Male,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Frequent,1.8,0.5,0.8,2.7,922.0,Male,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Current,1.7,0.5,0.8,2.6,922.0,Female,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Ever,5.9,0.8,4.4,7.4,920.0,Female,Middle School
-2001,ID,Idaho,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.3,922.0,Female,Middle School
 2001,LA,Louisiana,Cessation,Want to Quit,,53.8,2.5,48.9,58.6,341.0,Overall,Middle School
 2001,LA,Louisiana,Cessation,Want to Quit,,51.9,3.9,44.2,59.7,171.0,Male,Middle School
 2001,LA,Louisiana,Cessation,Want to Quit,,56.8,2.9,51.1,62.5,168.0,Female,Middle School
@@ -4569,54 +4055,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2001,LA,Louisiana,Smokeless Tobacco Use,User Status,Current,3.2,0.6,2.0,4.4,1281.0,Female,Middle School
 2001,LA,Louisiana,Smokeless Tobacco Use,User Status,Ever,10.7,0.9,9.0,12.4,1278.0,Female,Middle School
 2001,LA,Louisiana,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.1,0.7,1281.0,Female,Middle School
-2001,ME,Maine,Cessation,Want to Quit,,50.3,2.5,45.5,55.2,904.0,Overall,Middle School
-2001,ME,Maine,Cessation,Want to Quit,,46.5,4.5,37.7,55.2,426.0,Male,Middle School
-2001,ME,Maine,Cessation,Want to Quit,,55.1,4.1,47.0,63.1,472.0,Female,Middle School
-2001,ME,Maine,Cessation,Quit Attempt,,54.3,2.8,48.9,59.7,967.0,Overall,Middle School
-2001,ME,Maine,Cessation,Quit Attempt,,51.0,3.0,45.2,56.9,449.0,Male,Middle School
-2001,ME,Maine,Cessation,Quit Attempt,,58.0,4.2,49.8,66.3,512.0,Female,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Current,8.6,0.8,7.0,10.2,12556.0,Overall,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Ever,28.4,1.9,24.6,32.3,12463.0,Overall,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Frequent,2.7,0.4,1.9,3.4,12556.0,Overall,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Current,8.8,0.9,7.1,10.6,6226.0,Male,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Ever,30.3,2.5,25.5,35.1,6212.0,Male,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Frequent,3.3,0.5,2.3,4.3,6226.0,Male,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Current,8.5,0.9,6.7,10.3,6205.0,Female,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Ever,26.6,1.8,23.1,30.1,6187.0,Female,Middle School
-2001,ME,Maine,Cigarette Use,Smoking Status,Frequent,2.0,0.4,1.3,2.7,6205.0,Female,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Current,2.3,0.3,1.7,2.9,12439.0,Overall,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Ever,5.5,0.5,4.5,6.5,12469.0,Overall,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.4,1.0,12439.0,Overall,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Current,3.2,0.4,2.4,4.0,6157.0,Male,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Ever,8.0,0.7,6.7,9.4,6162.0,Male,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Frequent,1.0,0.2,0.6,1.5,6157.0,Male,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Current,1.3,0.3,0.7,1.9,6157.0,Female,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Ever,2.8,0.4,2.0,3.6,6179.0,Female,Middle School
-2001,ME,Maine,Smokeless Tobacco Use,User Status,Frequent,0.4,0.1,0.1,0.6,6157.0,Female,Middle School
-2001,MI,Michigan,Cessation,Want to Quit,,41.2,4.3,32.7,49.7,129.0,Overall,Middle School
-2001,MI,Michigan,Cessation,Want to Quit,,45.0,6.1,33.0,57.0,68.0,Male,Middle School
-2001,MI,Michigan,Cessation,Want to Quit,,36.9,7.3,22.5,51.2,61.0,Female,Middle School
-2001,MI,Michigan,Cessation,Quit Attempt,,56.3,3.8,48.9,63.6,144.0,Overall,Middle School
-2001,MI,Michigan,Cessation,Quit Attempt,,56.7,4.1,48.5,64.8,77.0,Male,Middle School
-2001,MI,Michigan,Cessation,Quit Attempt,,55.8,6.3,43.5,68.1,67.0,Female,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Current,9.3,0.9,7.5,11.0,1755.0,Overall,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Ever,32.6,2.0,28.7,36.6,1716.0,Overall,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Frequent,2.4,0.5,1.5,3.3,1755.0,Overall,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Current,9.8,1.1,7.6,12.0,883.0,Male,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Ever,32.3,1.9,28.6,36.0,853.0,Male,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Frequent,2.4,0.6,1.3,3.6,883.0,Male,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Current,8.7,1.0,6.7,10.7,871.0,Female,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Ever,32.9,2.6,27.9,37.9,862.0,Female,Middle School
-2001,MI,Michigan,Cigarette Use,Smoking Status,Frequent,2.4,0.5,1.4,3.5,871.0,Female,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Current,3.0,0.6,1.9,4.1,1779.0,Overall,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,10.8,0.9,9.0,12.6,1753.0,Overall,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.7,0.3,0.2,1.3,1779.0,Overall,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Current,4.0,0.6,2.7,5.3,901.0,Male,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,15.5,1.4,12.7,18.4,879.0,Male,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.8,0.3,0.1,1.4,901.0,Male,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Current,1.9,0.9,0.3,3.6,877.0,Female,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Ever,5.8,0.9,4.1,7.6,873.0,Female,Middle School
-2001,MI,Michigan,Smokeless Tobacco Use,User Status,Frequent,0.7,0.4,0.0,1.4,877.0,Female,Middle School
 2001,NH,New Hampshire,Cessation,Want to Quit,,51.8,8.6,35.0,68.7,54.0,Overall,Middle School
 2001,NH,New Hampshire,Cessation,Want to Quit,,,,,,,Male,Middle School
 2001,NH,New Hampshire,Cessation,Want to Quit,,,,,,,Female,Middle School
@@ -4689,30 +4127,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2001,PA,Pennsylvania,Smokeless Tobacco Use,User Status,Current,1.8,0.5,0.9,2.7,4009.0,Female,Middle School
 2001,PA,Pennsylvania,Smokeless Tobacco Use,User Status,Ever,6.5,0.6,5.3,7.7,4025.0,Female,Middle School
 2001,PA,Pennsylvania,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.1,0.4,4009.0,Female,Middle School
-2001,RI,Rhode Island,Cessation,Want to Quit,,48.8,5.4,38.3,59.3,102.0,Overall,Middle School
-2001,RI,Rhode Island,Cessation,Want to Quit,,,,,,,Male,Middle School
-2001,RI,Rhode Island,Cessation,Want to Quit,,47.6,7.3,33.3,61.9,55.0,Female,Middle School
-2001,RI,Rhode Island,Cessation,Quit Attempt,,53.5,5.2,43.3,63.8,118.0,Overall,Middle School
-2001,RI,Rhode Island,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2001,RI,Rhode Island,Cessation,Quit Attempt,,54.7,6.0,42.9,66.5,72.0,Female,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Current,9.1,0.6,7.9,10.4,1589.0,Overall,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,28.6,1.7,25.3,31.9,1538.0,Overall,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,2.4,0.6,1.2,3.5,1589.0,Overall,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Current,7.3,0.8,5.8,8.9,813.0,Male,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,28.1,2.3,23.6,32.5,781.0,Male,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,2.0,0.7,0.7,3.3,813.0,Male,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Current,10.8,1.0,8.8,12.9,773.0,Female,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Ever,29.0,2.2,24.7,33.3,754.0,Female,Middle School
-2001,RI,Rhode Island,Cigarette Use,Smoking Status,Frequent,2.6,0.6,1.4,3.8,773.0,Female,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,2.1,0.5,1.0,3.2,1618.0,Overall,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,5.8,0.8,4.2,7.4,1607.0,Overall,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.6,0.2,0.2,0.9,1618.0,Overall,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,2.6,0.8,1.0,4.2,827.0,Male,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,8.1,1.5,5.1,11.0,821.0,Male,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.7,0.4,0.0,1.5,827.0,Male,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Current,1.6,0.5,0.7,2.5,788.0,Female,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Ever,3.4,0.6,2.2,4.5,783.0,Female,Middle School
-2001,RI,Rhode Island,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.0,0.8,788.0,Female,Middle School
 2001,SD,South Dakota,Cessation,Want to Quit,,57.3,6.6,44.4,70.3,205.0,Overall,Middle School
 2001,SD,South Dakota,Cessation,Want to Quit,,53.6,7.9,38.1,69.0,99.0,Male,Middle School
 2001,SD,South Dakota,Cessation,Want to Quit,,61.5,6.3,49.1,73.9,106.0,Female,Middle School
@@ -4809,54 +4223,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,AR,Arkansas,Smokeless Tobacco Use,User Status,Current,2.1,0.6,0.9,3.3,755.0,Female,Middle School
 2000,AR,Arkansas,Smokeless Tobacco Use,User Status,Ever,9.4,1.4,6.7,12.2,761.0,Female,Middle School
 2000,AR,Arkansas,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.3,755.0,Female,Middle School
-2000,CA,California,Cessation,Want to Quit,,57.5,4.7,48.3,66.7,154.0,Overall,Middle School
-2000,CA,California,Cessation,Want to Quit,,46.9,7.6,32.0,61.8,79.0,Male,Middle School
-2000,CA,California,Cessation,Want to Quit,,67.8,6.5,55.0,80.6,75.0,Female,Middle School
-2000,CA,California,Cessation,Quit Attempt,,63.2,4.9,53.6,72.7,171.0,Overall,Middle School
-2000,CA,California,Cessation,Quit Attempt,,60.3,3.7,53.1,67.5,91.0,Male,Middle School
-2000,CA,California,Cessation,Quit Attempt,,66.2,8.7,49.0,83.3,80.0,Female,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Current,6.7,0.9,5.0,8.4,2797.0,Overall,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Ever,26.9,2.2,22.6,31.2,2840.0,Overall,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Frequent,1.1,0.2,0.7,1.6,2797.0,Overall,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Current,7.0,1.1,4.9,9.1,1365.0,Male,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Ever,28.9,2.3,24.4,33.4,1392.0,Male,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Frequent,1.2,0.4,0.5,2.0,1365.0,Male,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Current,6.4,1.2,4.2,8.7,1432.0,Female,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Ever,24.9,2.6,19.8,30.0,1447.0,Female,Middle School
-2000,CA,California,Cigarette Use,Smoking Status,Frequent,1.0,0.4,0.3,1.7,1432.0,Female,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Current,2.1,0.3,1.6,2.7,2832.0,Overall,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Ever,5.6,0.5,4.5,6.6,2834.0,Overall,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.6,0.1,0.4,0.9,2832.0,Overall,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Current,2.6,0.5,1.6,3.6,1379.0,Male,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Ever,7.2,1.1,5.0,9.3,1387.0,Male,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.9,0.2,0.4,1.3,1379.0,Male,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Current,1.6,0.4,0.9,2.3,1452.0,Female,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Ever,4.0,0.6,2.9,5.1,1446.0,Female,Middle School
-2000,CA,California,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.1,0.8,1452.0,Female,Middle School
-2000,CO,Colorado,Cessation,Want to Quit,,62.0,2.9,56.3,67.6,91.0,Overall,Middle School
-2000,CO,Colorado,Cessation,Want to Quit,,,,,,,Male,Middle School
-2000,CO,Colorado,Cessation,Want to Quit,,,,,,,Female,Middle School
-2000,CO,Colorado,Cessation,Quit Attempt,,50.4,3.4,43.7,57.1,103.0,Overall,Middle School
-2000,CO,Colorado,Cessation,Quit Attempt,,49.3,6.1,37.3,61.2,53.0,Male,Middle School
-2000,CO,Colorado,Cessation,Quit Attempt,,51.6,5.7,40.5,62.8,50.0,Female,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Current,8.8,1.4,6.0,11.6,1441.0,Overall,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Ever,31.9,3.2,25.6,38.2,1367.0,Overall,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Frequent,2.2,0.6,1.1,3.4,1441.0,Overall,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Current,9.3,1.4,6.6,12.0,702.0,Male,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Ever,34.2,3.3,27.8,40.7,665.0,Male,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Frequent,2.4,0.6,1.3,3.5,702.0,Male,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Current,8.4,1.7,5.1,11.7,735.0,Female,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Ever,29.5,3.7,22.3,36.7,700.0,Female,Middle School
-2000,CO,Colorado,Cigarette Use,Smoking Status,Frequent,2.1,0.8,0.6,3.6,735.0,Female,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Current,2.4,0.4,1.6,3.1,1474.0,Overall,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Ever,10.2,1.3,7.6,12.8,1477.0,Overall,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Frequent,0.6,0.1,0.3,0.8,1474.0,Overall,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Current,3.2,0.7,1.9,4.5,718.0,Male,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Ever,13.7,2.1,9.6,17.7,724.0,Male,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Frequent,0.7,0.2,0.2,1.1,718.0,Male,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Current,1.4,0.5,0.5,2.3,752.0,Female,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Ever,6.4,1.1,4.2,8.5,749.0,Female,Middle School
-2000,CO,Colorado,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.8,752.0,Female,Middle School
 2000,CT,Connecticut,Cessation,Want to Quit,,53.2,4.6,44.2,62.2,132.0,Overall,Middle School
 2000,CT,Connecticut,Cessation,Want to Quit,,52.3,6.3,40.0,64.6,61.0,Male,Middle School
 2000,CT,Connecticut,Cessation,Want to Quit,,55.4,6.0,43.6,67.2,70.0,Female,Middle School
@@ -4905,30 +4271,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,DE,Delaware,Smokeless Tobacco Use,User Status,Current,1.5,0.3,0.9,2.0,2243.0,Female,Middle School
 2000,DE,Delaware,Smokeless Tobacco Use,User Status,Ever,2.9,0.4,2.1,3.7,2284.0,Female,Middle School
 2000,DE,Delaware,Smokeless Tobacco Use,User Status,Frequent,0.5,0.2,0.1,1.0,2243.0,Female,Middle School
-2000,DC,District of Columbia,Cessation,Want to Quit,,65.1,4.9,55.5,74.7,72.0,Overall,Middle School
-2000,DC,District of Columbia,Cessation,Want to Quit,,,,,,,Male,Middle School
-2000,DC,District of Columbia,Cessation,Want to Quit,,,,,,,Female,Middle School
-2000,DC,District of Columbia,Cessation,Quit Attempt,,56.0,5.6,44.9,67.0,78.0,Overall,Middle School
-2000,DC,District of Columbia,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2000,DC,District of Columbia,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Current,9.4,1.1,7.4,11.5,1114.0,Overall,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Ever,36.3,2.0,32.4,40.3,1061.0,Overall,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Frequent,0.8,0.3,0.2,1.4,1114.0,Overall,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Current,8.7,1.5,5.8,11.7,496.0,Male,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Ever,35.6,2.7,30.3,41.0,458.0,Male,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Frequent,0.6,0.4,0.0,1.3,496.0,Male,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Current,10.1,1.3,7.5,12.6,613.0,Female,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Ever,36.9,2.2,32.5,41.4,598.0,Female,Middle School
-2000,DC,District of Columbia,Cigarette Use,Smoking Status,Frequent,0.9,0.4,0.1,1.7,613.0,Female,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Current,2.3,0.5,1.3,3.4,1137.0,Overall,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Ever,8.6,0.9,6.8,10.5,1145.0,Overall,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Frequent,0.4,0.2,0.0,0.8,1137.0,Overall,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Current,2.6,0.8,1.1,4.1,503.0,Male,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Ever,11.2,1.5,8.2,14.2,508.0,Male,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.5,503.0,Male,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Current,2.1,0.7,0.8,3.4,629.0,Female,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Ever,6.4,1.1,4.4,8.5,632.0,Female,Middle School
-2000,DC,District of Columbia,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.5,629.0,Female,Middle School
 2000,IN,Indiana,Cessation,Want to Quit,,55.2,4.0,47.4,63.0,122.0,Overall,Middle School
 2000,IN,Indiana,Cessation,Want to Quit,,55.7,6.4,43.3,68.2,56.0,Male,Middle School
 2000,IN,Indiana,Cessation,Want to Quit,,54.7,5.0,44.9,64.5,66.0,Female,Middle School
@@ -5025,54 +4367,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,KY,Kentucky,Smokeless Tobacco Use,User Status,Current,2.1,0.5,1.1,3.1,640.0,Female,Middle School
 2000,KY,Kentucky,Smokeless Tobacco Use,User Status,Ever,10.3,1.1,8.1,12.5,637.0,Female,Middle School
 2000,KY,Kentucky,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,640.0,Female,Middle School
-2000,ME,Maine,Cessation,Want to Quit,,51.4,2.5,46.4,56.3,109.0,Overall,Middle School
-2000,ME,Maine,Cessation,Want to Quit,,46.0,9.1,28.2,63.8,58.0,Male,Middle School
-2000,ME,Maine,Cessation,Want to Quit,,,,,,,Female,Middle School
-2000,ME,Maine,Cessation,Quit Attempt,,47.6,6.2,35.4,59.7,126.0,Overall,Middle School
-2000,ME,Maine,Cessation,Quit Attempt,,44.6,7.9,29.2,60.0,64.0,Male,Middle School
-2000,ME,Maine,Cessation,Quit Attempt,,50.9,8.5,34.2,67.6,60.0,Female,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Current,14.5,2.0,10.7,18.4,1321.0,Overall,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Ever,38.6,2.9,32.9,44.4,1316.0,Overall,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Frequent,4.4,1.2,2.1,6.7,1321.0,Overall,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Current,15.4,3.5,8.6,22.2,627.0,Male,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Ever,36.5,3.4,29.7,43.2,629.0,Male,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Frequent,4.3,1.3,1.8,6.8,627.0,Male,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Current,13.9,2.0,9.9,17.9,672.0,Female,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Ever,41.8,4.0,34.1,49.6,670.0,Female,Middle School
-2000,ME,Maine,Cigarette Use,Smoking Status,Frequent,4.7,1.3,2.1,7.3,672.0,Female,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Current,3.2,0.6,2.0,4.5,1309.0,Overall,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Ever,6.6,1.2,4.2,8.9,1287.0,Overall,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Frequent,1.2,0.4,0.4,2.0,1309.0,Overall,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Current,5.3,1.3,2.8,7.8,618.0,Male,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Ever,9.9,1.8,6.5,13.3,609.0,Male,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Frequent,2.3,0.8,0.8,3.7,618.0,Male,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Current,1.0,0.5,0.1,1.9,666.0,Female,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Ever,3.2,1.0,1.2,5.2,658.0,Female,Middle School
-2000,ME,Maine,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.3,666.0,Female,Middle School
-2000,MD,Maryland,Cessation,Want to Quit,,55.3,2.3,50.8,59.7,1301.0,Overall,Middle School
-2000,MD,Maryland,Cessation,Want to Quit,,52.6,3.2,46.4,58.9,660.0,Male,Middle School
-2000,MD,Maryland,Cessation,Want to Quit,,58.5,3.3,52.0,64.9,635.0,Female,Middle School
-2000,MD,Maryland,Cessation,Quit Attempt,,63.7,3.0,57.7,69.7,1514.0,Overall,Middle School
-2000,MD,Maryland,Cessation,Quit Attempt,,62.7,3.7,55.6,69.9,774.0,Male,Middle School
-2000,MD,Maryland,Cessation,Quit Attempt,,65.6,4.1,57.4,73.7,732.0,Female,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Current,7.3,0.5,6.3,8.3,21446.0,Overall,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Ever,26.3,1.3,23.7,28.8,20225.0,Overall,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Frequent,1.6,0.2,1.3,1.9,21446.0,Overall,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Current,7.3,0.7,5.9,8.7,10671.0,Male,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Ever,27.1,1.5,24.2,29.9,9979.0,Male,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Frequent,1.6,0.2,1.2,2.0,10671.0,Male,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Current,7.3,0.6,6.1,8.4,10703.0,Female,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Ever,25.4,1.4,22.7,28.2,10194.0,Female,Middle School
-2000,MD,Maryland,Cigarette Use,Smoking Status,Frequent,1.5,0.2,1.1,2.0,10703.0,Female,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Current,2.2,0.2,1.8,2.7,22055.0,Overall,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,9.7,0.4,8.9,10.5,21830.0,Overall,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.5,0.1,0.3,0.6,22055.0,Overall,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Current,3.2,0.4,2.5,3.9,10970.0,Male,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,12.3,0.6,11.2,13.5,10833.0,Male,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.7,0.1,0.4,1.0,10970.0,Male,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Current,1.2,0.2,0.9,1.5,11015.0,Female,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Ever,6.8,0.4,6.1,7.6,10933.0,Female,Middle School
-2000,MD,Maryland,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.1,0.4,11015.0,Female,Middle School
 2000,MN,Minnesota,Cessation,Want to Quit,,55.7,2.4,50.9,60.4,336.0,Overall,Middle School
 2000,MN,Minnesota,Cessation,Want to Quit,,52.1,4.5,43.2,60.9,159.0,Male,Middle School
 2000,MN,Minnesota,Cessation,Want to Quit,,59.3,3.4,52.7,65.9,177.0,Female,Middle School
@@ -5145,30 +4439,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,NH,New Hampshire,Smokeless Tobacco Use,User Status,Current,0.4,0.3,0.0,0.9,693.0,Female,Middle School
 2000,NH,New Hampshire,Smokeless Tobacco Use,User Status,Ever,4.5,0.8,3.0,6.1,698.0,Female,Middle School
 2000,NH,New Hampshire,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,693.0,Female,Middle School
-2000,NY,New York,Cessation,Want to Quit,,51.1,7.8,35.8,66.4,151.0,Overall,Middle School
-2000,NY,New York,Cessation,Want to Quit,,53.9,7.0,40.3,67.6,81.0,Male,Middle School
-2000,NY,New York,Cessation,Want to Quit,,47.6,12.0,24.0,71.2,70.0,Female,Middle School
-2000,NY,New York,Cessation,Quit Attempt,,61.6,5.1,51.6,71.7,157.0,Overall,Middle School
-2000,NY,New York,Cessation,Quit Attempt,,59.4,5.5,48.7,70.1,83.0,Male,Middle School
-2000,NY,New York,Cessation,Quit Attempt,,64.3,8.8,47.0,81.6,74.0,Female,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Current,9.3,2.0,5.5,13.2,1978.0,Overall,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Ever,29.2,3.5,22.4,36.0,2007.0,Overall,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Frequent,2.2,0.9,0.4,4.0,1978.0,Overall,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Current,9.8,2.7,4.5,15.1,994.0,Male,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Ever,30.2,4.8,20.8,39.6,1002.0,Male,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Frequent,2.8,1.4,0.2,5.5,994.0,Male,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Current,8.8,1.7,5.6,12.1,984.0,Female,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Ever,28.2,3.0,22.3,34.0,1005.0,Female,Middle School
-2000,NY,New York,Cigarette Use,Smoking Status,Frequent,1.4,0.6,0.3,2.6,984.0,Female,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Current,1.5,0.5,0.4,2.5,1994.0,Overall,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Ever,3.8,1.2,1.3,6.2,1993.0,Overall,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Frequent,0.9,0.3,0.2,1.5,1994.0,Overall,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Current,2.3,0.8,0.8,3.8,1002.0,Male,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Ever,6.3,2.1,2.2,10.3,990.0,Male,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Frequent,1.2,0.4,0.4,2.1,1002.0,Male,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Current,0.6,0.3,0.0,1.3,992.0,Female,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Ever,1.2,0.5,0.1,2.2,1003.0,Female,Middle School
-2000,NY,New York,Smokeless Tobacco Use,User Status,Frequent,0.5,0.3,0.0,1.1,992.0,Female,Middle School
 2000,OH,Ohio,Cessation,Want to Quit,,56.8,4.7,47.6,66.0,170.0,Overall,Middle School
 2000,OH,Ohio,Cessation,Want to Quit,,59.5,5.2,49.3,69.7,91.0,Male,Middle School
 2000,OH,Ohio,Cessation,Want to Quit,,53.2,6.8,39.8,66.5,79.0,Female,Middle School
@@ -5241,78 +4511,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,TN,Tennessee,Smokeless Tobacco Use,User Status,Current,1.9,0.3,1.3,2.5,5309.0,Female,Middle School
 2000,TN,Tennessee,Smokeless Tobacco Use,User Status,Ever,8.7,0.7,7.3,10.0,5292.0,Female,Middle School
 2000,TN,Tennessee,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.1,0.4,5309.0,Female,Middle School
-2000,TX,Texas,Cessation,Want to Quit,,50.6,3.8,43.1,58.1,229.0,Overall,Middle School
-2000,TX,Texas,Cessation,Want to Quit,,47.0,4.6,38.0,56.0,115.0,Male,Middle School
-2000,TX,Texas,Cessation,Want to Quit,,54.0,5.7,42.7,65.3,114.0,Female,Middle School
-2000,TX,Texas,Cessation,Quit Attempt,,59.3,3.4,52.7,65.9,252.0,Overall,Middle School
-2000,TX,Texas,Cessation,Quit Attempt,,55.9,4.4,47.3,64.4,129.0,Male,Middle School
-2000,TX,Texas,Cessation,Quit Attempt,,62.6,7.3,48.4,76.9,123.0,Female,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Current,13.9,1.6,10.8,17.0,1980.0,Overall,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Ever,44.1,3.0,38.2,50.1,2030.0,Overall,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Frequent,2.5,0.6,1.3,3.7,1980.0,Overall,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Current,14.6,2.2,10.4,18.9,975.0,Male,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Ever,46.1,3.7,38.8,53.4,1001.0,Male,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Frequent,3.3,1.0,1.4,5.2,975.0,Male,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Current,13.2,1.4,10.4,16.0,1005.0,Female,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Ever,42.3,2.5,37.4,47.2,1029.0,Female,Middle School
-2000,TX,Texas,Cigarette Use,Smoking Status,Frequent,1.7,0.6,0.6,2.8,1005.0,Female,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Current,3.8,0.5,2.8,4.8,2029.0,Overall,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Ever,10.3,1.0,8.4,12.3,2032.0,Overall,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Frequent,1.2,0.3,0.6,1.8,2029.0,Overall,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Current,5.6,1.3,3.1,8.1,1009.0,Male,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Ever,16.0,2.2,11.7,20.3,1015.0,Male,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Frequent,2.3,0.6,1.0,3.5,1009.0,Male,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Current,2.1,0.6,1.0,3.2,1020.0,Female,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Ever,4.9,1.0,2.9,6.9,1017.0,Female,Middle School
-2000,TX,Texas,Smokeless Tobacco Use,User Status,Frequent,0.2,0.1,0.0,0.4,1020.0,Female,Middle School
-2000,VT,Vermont,Cessation,Want to Quit,,41.1,4.2,32.7,49.4,130.0,Overall,Middle School
-2000,VT,Vermont,Cessation,Want to Quit,,,,,,,Male,Middle School
-2000,VT,Vermont,Cessation,Want to Quit,,36.1,7.4,21.6,50.6,83.0,Female,Middle School
-2000,VT,Vermont,Cessation,Quit Attempt,,46.4,6.1,34.4,58.4,142.0,Overall,Middle School
-2000,VT,Vermont,Cessation,Quit Attempt,,52.2,4.7,43.0,61.5,56.0,Male,Middle School
-2000,VT,Vermont,Cessation,Quit Attempt,,43.5,8.6,26.7,60.3,85.0,Female,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Current,11.9,1.1,9.8,14.0,1450.0,Overall,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Ever,36.2,2.2,31.9,40.4,1421.0,Overall,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Frequent,3.7,0.6,2.5,5.0,1450.0,Overall,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Current,9.6,1.0,7.6,11.6,725.0,Male,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Ever,34.5,2.2,30.2,38.9,711.0,Male,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Frequent,3.2,0.7,1.7,4.7,725.0,Male,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Current,14.2,2.0,10.3,18.0,723.0,Female,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Ever,37.6,2.9,32.0,43.2,708.0,Female,Middle School
-2000,VT,Vermont,Cigarette Use,Smoking Status,Frequent,4.3,0.8,2.7,6.0,723.0,Female,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Current,3.3,1.0,1.4,5.2,1462.0,Overall,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,11.1,1.5,8.1,14.2,1478.0,Overall,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.3,1462.0,Overall,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Current,5.4,1.8,1.9,9.0,733.0,Male,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,15.0,2.2,10.6,19.3,745.0,Male,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,1.0,0.7,0.0,2.3,733.0,Male,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Current,1.0,0.3,0.3,1.6,727.0,Female,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Ever,7.0,1.3,4.5,9.5,731.0,Female,Middle School
-2000,VT,Vermont,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.4,727.0,Female,Middle School
-2000,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Overall,Middle School
-2000,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Male,Middle School
-2000,VI,Virgin Islands,Cessation,Want to Quit,,,,,,,Female,Middle School
-2000,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Overall,Middle School
-2000,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Male,Middle School
-2000,VI,Virgin Islands,Cessation,Quit Attempt,,,,,,,Female,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,2.7,0.5,1.7,3.7,1344.0,Overall,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,17.7,1.4,14.9,20.5,1287.0,Overall,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.3,0.1,0.0,0.5,1344.0,Overall,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,2.7,0.8,1.2,4.2,664.0,Male,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,18.2,1.9,14.5,22.0,627.0,Male,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.1,0.1,0.0,0.4,664.0,Male,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Current,2.7,0.7,1.3,4.0,679.0,Female,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Ever,17.3,1.8,13.8,20.7,659.0,Female,Middle School
-2000,VI,Virgin Islands,Cigarette Use,Smoking Status,Frequent,0.4,0.2,0.0,0.8,679.0,Female,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,1.4,0.4,0.7,2.2,1410.0,Overall,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,8.1,0.8,6.5,9.7,1384.0,Overall,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,1410.0,Overall,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,1.8,0.6,0.5,3.0,705.0,Male,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,9.0,1.3,6.5,11.5,691.0,Male,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.6,0.4,0.0,1.3,705.0,Male,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Current,1.1,0.4,0.3,2.0,704.0,Female,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Ever,7.2,1.0,5.2,9.2,692.0,Female,Middle School
-2000,VI,Virgin Islands,Smokeless Tobacco Use,User Status,Frequent,0.1,0.1,0.0,0.4,704.0,Female,Middle School
 2000,WV,West Virginia,Cessation,Want to Quit,,53.3,3.6,46.2,60.4,256.0,Overall,Middle School
 2000,WV,West Virginia,Cessation,Want to Quit,,58.5,5.5,47.7,69.4,119.0,Male,Middle School
 2000,WV,West Virginia,Cessation,Want to Quit,,48.1,4.9,38.5,57.8,137.0,Female,Middle School
@@ -5361,30 +4559,6 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 2000,WI,Wisconsin,Smokeless Tobacco Use,User Status,Current,1.2,0.4,0.5,2.0,714.0,Female,Middle School
 2000,WI,Wisconsin,Smokeless Tobacco Use,User Status,Ever,7.7,1.2,5.4,10.1,721.0,Female,Middle School
 2000,WI,Wisconsin,Smokeless Tobacco Use,User Status,Frequent,0.0,0.0,0.0,0.0,714.0,Female,Middle School
-2000,WY,Wyoming,Cessation,Want to Quit,,58.3,4.0,50.4,66.1,202.0,Overall,Middle School
-2000,WY,Wyoming,Cessation,Want to Quit,,56.0,4.9,46.4,65.5,106.0,Male,Middle School
-2000,WY,Wyoming,Cessation,Want to Quit,,62.9,5.3,52.5,73.2,92.0,Female,Middle School
-2000,WY,Wyoming,Cessation,Quit Attempt,,59.3,2.9,53.7,64.9,224.0,Overall,Middle School
-2000,WY,Wyoming,Cessation,Quit Attempt,,61.1,4.2,52.9,69.4,110.0,Male,Middle School
-2000,WY,Wyoming,Cessation,Quit Attempt,,58.2,4.4,49.6,66.9,112.0,Female,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Current,14.8,1.0,12.8,16.8,1781.0,Overall,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Ever,46.3,2.0,42.4,50.2,1745.0,Overall,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Frequent,5.1,0.6,4.0,6.3,1781.0,Overall,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Current,15.6,1.3,13.1,18.2,829.0,Male,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Ever,49.2,2.2,44.9,53.4,810.0,Male,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Frequent,5.5,0.7,4.1,6.8,829.0,Male,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Current,13.4,1.4,10.6,16.2,944.0,Female,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Ever,43.0,2.7,37.8,48.2,930.0,Female,Middle School
-2000,WY,Wyoming,Cigarette Use,Smoking Status,Frequent,4.6,0.9,2.8,6.4,944.0,Female,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Current,8.6,0.9,6.9,10.4,1802.0,Overall,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Ever,24.7,1.5,21.8,27.6,1803.0,Overall,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Frequent,1.9,0.4,1.1,2.8,1802.0,Overall,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Current,13.4,1.3,10.7,16.0,841.0,Male,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Ever,34.8,2.0,30.8,38.7,841.0,Male,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Frequent,3.3,0.8,1.8,4.7,841.0,Male,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Current,3.2,0.7,1.9,4.5,952.0,Female,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Ever,13.7,1.3,11.0,16.3,954.0,Female,Middle School
-2000,WY,Wyoming,Smokeless Tobacco Use,User Status,Frequent,0.3,0.2,0.0,0.7,952.0,Female,Middle School
 1999,AR,Arkansas,Cigarette Use,Smoking Status,Ever,60.2,3.7,53.0,67.4,400.0,Overall,Middle School
 1999,AR,Arkansas,Cigarette Use,Smoking Status,Ever,61.0,5.5,50.2,71.8,192.0,Male,Middle School
 1999,AR,Arkansas,Cigarette Use,Smoking Status,Ever,59.4,3.0,53.5,65.3,208.0,Female,Middle School
@@ -5628,7 +4802,3 @@ YEAR,LocationAbbr,LocationDesc,TopicDesc,MeasureDesc,Response,Data_Value,Data_Va
 1999,TN,Tennessee,Smokeless Tobacco Use,User Status,Current,1.8,0.6,0.6,3.0,632.0,Female,Middle School
 1999,TN,Tennessee,Smokeless Tobacco Use,User Status,Ever,6.5,1.0,4.6,8.4,619.0,Female,Middle School
 1999,TN,Tennessee,Smokeless Tobacco Use,User Status,Frequent,0.2,0.2,0.0,0.6,632.0,Female,Middle School
-2017,US,National (States and DC),Cessation,Quit Attempt,,67.2,4.6,58.3,76.1,153.0,Overall,Middle School
-2017,US,National (States and DC),Cessation,Want to Quit,,55.1,5.2,45.0,65.3,147.0,Overall,Middle School
-2016,US,National (States and DC),Cessation,Quit Attempt,,64.2,4.4,55.7,72.8,138.0,Overall,Middle School
-2016,US,National (States and DC),Cessation,Want to Quit,,60.6,5.2,50.3,70.9,136.0,Overall,Middle School
